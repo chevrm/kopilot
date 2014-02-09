@@ -1,0 +1,672 @@
+K01001  
+ALG7; UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]
+K07432  
+ALG13; beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141]
+K07441  
+ALG14; beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141]
+K03842  
+ALG1; beta-1,4-mannosyltransferase [EC:2.4.1.142]
+K03843  
+ALG2; alpha-1,3/alpha-1,6-mannosyltransferase [EC:2.4.1.132 2.4.1.257]
+K03844  
+ALG11; alpha-1,2-mannosyltransferase [EC:2.4.1.131]
+K03845  
+ALG3; alpha-1,3-mannosyltransferase [EC:2.4.1.258]
+K03847  
+ALG12; alpha-1,6-mannosyltransferase [EC:2.4.1.260]
+K03846  
+ALG9; alpha-1,2-mannosyltransferase [EC:2.4.1.259 2.4.1.261]
+K00729  
+ALG5; dolichyl-phosphate beta-glucosyltransferase [EC:2.4.1.117]
+K03848  
+ALG6; alpha-1,3-glucosyltransferase [EC:2.4.1.267]
+K03849  
+ALG8; alpha-1,3-glucosyltransferase [EC:2.4.1.265]
+K03850  
+ALG10; alpha-1,2-glucosyltransferase [EC:2.4.1.256]
+K07151  
+STT3; dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]
+K00721  
+DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]
+K00710  
+GALNT; polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+K09667  
+OGT; polypeptide N-acetylglucosaminyltransferase [EC:2.4.1.-]
+K13666  
+OGNT; UDP-GlcNAc:polypeptide alpha-N-acetylglucosaminyltransferase [EC:2.4.1.-]
+K12244  
+GNT1; [Skp1-protein]-hydroxyproline N-acetylglucosaminyltransferase [EC:2.4.1.229]
+K00771  
+XYLT; protein xylosyltransferase [EC:2.4.2.26]
+K00728  
+POMT; dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]
+K03691  
+POFUT; peptide-O-fucosyltransferase [EC:2.4.1.221]
+K13667  
+RUMI, KTELC1; protein glucosyltransferase [EC:2.4.1.-]
+K11703  
+GLT25D; collagen beta-1,O-galactosyltransferase [EC:2.4.1.50]
+K13646  
+PLOD3; lysyl hydroxylase/galactosyltransferase/glucosyltransferase [EC:1.14.11.4 2.4.1.50 2.4.1.66]
+K03857  
+PIGA, GPI3; phosphatidylinositol glycan, class A [EC:2.4.1.198]
+K05284  
+PIGM; phosphatidylinositol glycan, class M [EC:2.4.1.-]
+K07542  
+PIGV; phosphatidylinositol glycan, class V [EC:2.4.1.-]
+K05286  
+PIGB; phosphatidylinositol glycan, class B [EC:2.4.1.-]
+K08098  
+PIGZ, SMP3; phosphatidylinositol glycan, class Z [EC:2.4.1.-]
+K08256  
+pimA; phosphatidylinositol alpha-mannosyltransferase [EC:2.4.1.57]
+K13668  
+pimB; phosphatidylinositol alpha-1,6-mannosyltransferase [EC:2.4.1.-]
+K14335  
+pimC; alpha-1,6-mannosyltransferase [EC:2.4.1.-]
+K13669  
+pimE; alpha-1,2-mannosyltransferase [EC:2.4.1.-]
+K13672  
+LPG1; galactofuranosyltransferase [EC:2.4.1.-]
+K13673  
+SCG; phosphoglycan beta-1,3-galactosyltransferase [EC:2.4.1.-]
+K13674  
+SCA; phosphoglycan alpha-1,2-arabinopyranosyltransferase [EC:2.4.2.-]
+K00720  
+UGCG; ceramide glucosyltransferase [EC:2.4.1.80]
+K04628  
+CGT, UGT8; 2-hydroxyacylsphingosine 1-beta-galactosyltransferase [EC:2.4.1.45]
+K07553  
+B4GALT6; beta-1,4-galactosyltransferase 6 [EC:2.4.1.274]
+K03715  
+E2.4.1.46; 1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46]
+K03429  
+ugtP; 1,2-diacylglycerol 3-glucosyltransferase [EC:2.4.1.157]
+K07819  
+B3GALT1; beta-1,3-galactosyltransferase 1 [EC:2.4.1.-]
+K07820  
+B3GALT2; beta-1,3-galactosyltransferase 2 [EC:2.4.1.-]
+K03877  
+B3GALT5; beta-1,3-galactosyltransferase 5 [EC:2.4.1.-]
+K07966  
+B4GALT1; beta-1,4-galactosyltransferase 1 [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+K07967  
+B4GALT2; beta-1,4-galactosyltransferase 2 [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+K07968  
+B4GALT3; beta-1,4-galactosyltransferase 3 [EC:2.4.1.90 2.4.1.38 2.4.1.-]
+K07969  
+B4GALT4; beta-1,4-galactosyltransferase 4 [EC:2.4.1.90 2.4.1.-]
+K09905  
+B4GALT5; beta-1,4-galactosyltransferase 5 [EC:2.4.1.-]
+K00741  
+B3GNT1, B3GNT2; N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase [EC:2.4.1.149]
+K07970  
+B3GNT3; beta-1,3-N-acetylglucosaminyltransferase 3 [EC:2.4.1.-]
+K07971  
+B3GNT4; beta-1,3-N-acetylglucosaminyltransferase 4 [EC:2.4.1.-]
+K03766  
+B3GNT5; beta-1,3-N-acetylglucosaminyltransferase 5 [EC:2.4.1.206]
+K00739  
+B3GNT6; acetylgalactosaminyl-0-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase [EC:2.4.1.147]
+K09664  
+B3GNT7; beta-1,3-N-acetylglucosaminyltransferase 7 [EC:2.4.1.-]
+K09665  
+B3GNT8; beta-1,3-N-acetylglucosaminyltransferase 8 [EC:2.4.1.-]
+K00731  
+C1GALT1; glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase [EC:2.4.1.122]
+K09653  
+C1GALT2, C1GALT1C1; C1GALT1-specific chaperone 1 [EC:2.4.1.-]
+K00742  
+GCNT2; N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase [EC:2.4.1.150]
+K00718  
+FUT1_2; galactoside 2-L-fucosyltransferase 1/2 [EC:2.4.1.69]
+K00709  
+ABO; histo-blood group ABO system transferase [EC:2.4.1.40 2.4.1.37]
+K00743  
+GGTA1; N-acetyllactosaminide 3-alpha-galactosyltransferase [EC:2.4.1.87]
+K00716  
+FUT3; galactoside 3(4)-fucosyltransferase 3 [EC:2.4.1.65]
+K07632  
+FUT4; galactoside alpha-1,3-fucosyltransferase 4 [EC:2.4.1.-]
+K07633  
+FUT5; galactoside alpha-1,3-fucosyltransferase 5 [EC:2.4.1.65]
+K07634  
+FUT6; galactoside alpha-1,3-fucosyltransferase 6 [EC:2.4.1.65]
+K07635  
+FUT7; galactoside alpha-1,3-fucosyltransferase 7 [EC:2.4.1.-]
+K03663  
+FUT9; 4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase [EC:2.4.1.152]
+K01988  
+A4GALT; lactosylceramide 4-alpha-galactosyltransferase [EC:2.4.1.228]
+K00719  
+B3GALNT1, B3GALT3; galactosylgalactosylglucosylceramide beta-D-acetylgalactosaminyltransferase [EC:2.4.1.79]
+K09655  
+B4GALNT2; beta-1,4-N-acetylgalactosaminyltransferase 2 [EC:2.4.1.-]
+K00722  
+GBGT1; globoside alpha-N-acetylgalactosaminyltransferase [EC:2.4.1.88]
+K00726  
+MGAT1; alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.101]
+K00736  
+MGAT2; alpha-1,6-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.143]
+K00737  
+MGAT3; beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.144]
+K00738  
+MGAT4A_B; alpha-1,3-mannosylglycoprotein beta-1,4-N-acetylglucosaminyltransferase A/B [EC:2.4.1.145]
+K13748  
+MGAT4C; alpha-1,3-mannosylglycoprotein beta-1,4-N-acetylglucosaminyltransferase C [EC:2.4.1.201 2.4.1.145]
+K00744  
+MGAT5; alpha-1,3(6)-mannosylglycoprotein beta-1,6-N-acetyl-glucosaminyltransferase [EC:2.4.1.155]
+K03714  
+E2.4.2.38; glycoprotein 2-beta-D-xylosyltransferase [EC:2.4.2.38]
+K00717  
+FUT8; glycoprotein 6-alpha-L-fucosyltransferase [EC:2.4.1.68]
+K00753  
+E2.4.1.214; glycoprotein 3-alpha-L-fucosyltransferase [EC:2.4.1.214]
+K09669  
+FUT10; alpha-1,3-fucosyltransferase 10 [EC:2.4.1.-]
+K14412  
+FUT13, FucTC; alpha-1,4-fucosyltransferase [EC:2.4.1.-]
+K14413 
+GALT1; beta-1,3-galactosyltransferase [EC:2.4.1.-]
+K14434  
+GALT-1; alpha 1,6-fucoside beta 1,4-galactosyltransferase [EC:2.4.1.-]
+K00727  
+GCNT1; beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase [EC:2.4.1.102]
+K09662  
+GCNT3; N-acetylglucosaminyltransferase 3, mucin type [EC:2.4.1.-]
+K09663  
+GCNT4; beta-1,6-N-acetylglucosaminyltransferase 4 [EC:2.4.1.-]
+K08251  
+A4GNT; alpha 1,4-N-acetylglucosaminyltransferase [EC:2.4.1.-]
+K00733  
+B4GALT7; xylosylprotein 4-beta-galactosyltransferase [EC:2.4.1.133]
+K00734  
+B3GALT6; galactosylxylosylprotein 3-beta-galactosyltransferase [EC:2.4.1.134]
+K00735  
+B3GAT1; galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 [EC:2.4.1.135]
+K10157  
+B3GAT2; galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2 [EC:2.4.1.135]
+K10158  
+B3GAT3; galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3 [EC:2.4.1.135]
+K10812  
+GlcAT-SP; beta-1,3-glucuronyltransferase [EC:2.4.1.135 2.4.1.-]
+K00746  
+CSGALNACT1_2; chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175]
+K13499  
+CHSY; chondroitin sulfate synthase [EC:2.4.1.175 2.4.1.226]
+K00747  
+CHPF; chondroitin polymerizing factor [EC:2.4.1.175 2.4.1.226]
+K03419  
+CHPF2; chondroitin polymerizing factor 2 [EC:2.4.1.226]
+K13500  
+fcbD; chondroitin synthase [EC:2.4.1.175 2.4.1.226]
+K02366  
+EXT1; glucuronyl/N-acetylglucosaminyl transferase EXT1 [EC:2.4.1.224 2.4.1.225]
+K02367  
+EXT2; glucuronyl/N-acetylglucosaminyl transferase EXT2 [EC:2.4.1.224 2.4.1.225]
+K02368  
+EXTL1; alpha-1,4-N-acetylglucosaminyltransferase EXTL1 [EC:2.4.1.224]
+K02369  
+EXTL2; alpha-1,4-N-acetylglucosaminyltransferase EXTL2 [EC:2.4.1.223]
+K02370  
+EXTL3; alpha-1,4-N-acetylglucosaminyltransferase EXTL3 [EC:2.4.1.223 2.4.1.224]
+K09666  
+POMGNT1; beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.-]
+K05948  
+FNG; fringe [EC:2.4.1.222]
+K13675  
+B3GALTL; UDP-glucose:O-linked fucose beta-1,3-glucosyltransferase [EC:2.4.1.-]
+K13676  
+GXYLT; UDP-xylose:glucoside alpha-1,3-xylosyltransferase [EC:2.4.2.-]
+K12583  
+mgtA; phosphatidylinositol alpha 1,6-mannosyltransferase [EC:2.4.1.-]
+K00715  
+B3GALT4; ganglioside galactosyltransferase [EC:2.4.1.62]
+K00725  
+B4GALNT1, GALGT; (N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase [EC:2.4.1.92]
+K13677  
+dgs; 1,2-diacylglycerol-3-glucose alpha-1,2-glucosyltransferase [EC:2.4.1.208]
+K13678  
+cpoA; monoglucosyldiacylglycerol glycosyltransferase [EC:2.4.1.-]
+K09480  
+E2.4.1.241; digalactosyldiacylglycerol synthase [EC:2.4.1.241]
+K06119  
+SQD2; sulfoquinovosyltransferase [EC:2.4.1.-]
+K05538  
+MNN1; alpha 1,3-mannosyltransferase [EC:2.4.1.-]
+K05535  
+MNN2; alpha 1,2-mannosyltransferase [EC:2.4.1.-]
+K05536  
+MNN5; alpha 1,2-mannosyltransferase [EC:2.4.1.-]
+K10968  
+MNT2; alpha 1,3-mannosyltransferase [EC:2.4.1.-]
+K10969  
+MNT3; alpha 1,3-mannosyltransferase [EC:2.4.1.-]
+K05529  
+MNN9; mannan polymerase complexes MNN9 subunit [EC:2.4.1.-]
+K10970  
+MNN25; alpha 1,2-mannosyltransferase [EC:2.4.1.-]
+K05528  
+OCH1; alpha 1,6-mannosyltransferase [EC:2.4.1.232]
+K10967  
+KTR1_3; alpha 1,2-mannosyltransferase [EC:2.4.1.-]
+K03854  
+KTR; mannosyltransferase [EC:2.4.1.-]
+K05537  
+KTR6; mannosylphosphate transferase [EC:2.7.8.-]
+K09654  
+B3GALNT2; beta-1,3-N-acetylgalactosaminyltransferase 2 [EC:2.4.1.-]
+K09656  
+B4GALNT3; beta-1,4-N-acetylgalactosaminyltransferase 3 [EC:2.4.1.244]
+K09657  
+B4GALNT4; beta-1,4-N-acetylgalactosaminyltransferase 4 [EC:2.4.1.244]
+K10971  
+GMA12; alpha 1,2-galactosyltransferase [EC:2.4.1.-]
+K09661  
+MGAT5B; mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B [EC:2.4.1.-]
+K09668  
+LARGE; glycosyltransferase-like protein LARGE
+K12245  
+PGTA; bifunctional glycosyltransferase PgtA [EC:2.4.1.- 2.4.1.69]
+K00780  
+SIAT4A; beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4A) [EC:2.4.99.4]
+K03368  
+SIAT4B; beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]
+K03494  
+SIAT4C; beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4C) [EC:2.4.99.4]
+K00781  
+SIAT6; N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6) [EC:2.4.99.6]
+K03370  
+SIAT9; lactosylceramide alpha-2,3-sialyltransferase (sialyltransferase 9) [EC:2.4.99.9]
+K03792  
+SIAT10, ST3GAL6; beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 10) [EC:2.4.99.10]
+K00778  
+SIAT1, ST6GAL1; beta-galactoside alpha-2,6-sialyltransferase (sialyltransferase 1) [EC:2.4.99.1]
+K00779  
+SIAT2, ST6GAL2; beta-galactoside alpha2,6-sialyltransferase (sialyltransferase 2) [EC:2.4.99.1]
+K03479  
+SIAT7A, ST6GalNAc I; alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7A) [EC:2.4.99.3]
+K06616  
+SIAT7B, ST6GalNAc II; alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7B) [EC:2.4.99.-]
+K03373  
+SIAT7C, ST6GalNAc III; N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7C) [EC:2.4.99.-]
+K03374  
+SIAT7D, ST6GalNAc IV; N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7D) [EC:2.4.99.7]
+K03375  
+SIAT7E, ST6GalNAc V; N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7E) [EC:2.4.99.-]
+K03376  
+SIAT7F, ST6GalNAc VI; N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7F) [EC:2.4.99.-]
+K03371  
+SIAT8A; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8A) [EC:2.4.99.8]
+K06612  
+SIAT8B; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8B) [EC:2.4.99.-]
+K06613  
+SIAT8C; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8C) [EC:2.4.99.-]
+K06614  
+SIAT8D; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8D) [EC:2.4.99.-]
+K03369  
+SIAT8E; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8E) [EC:2.4.99.-]
+K06615  
+SIAT8F; alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8F) [EC:2.4.99.-]
+K12246  
+neuS, siaD; poly-alpha-2,8 sialosyl sialyltransferase [EC:2.4.-.-]
+K12247  
+cstII, cstIII; alpha-2,3 sialyltransferase [EC:2.4.99.-]
+K00785  
+lst; beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+K12248  
+bst; beta-galactoside alpha-2,6-sialyltransferase (sialyltransferase 0160) [EC:2.4.99.1]
+K00693  
+GYS; glycogen(starch) synthase [EC:2.4.1.11]
+K16150  
+K16150; glycogen(starch) synthase [EC:2.4.1.11]
+K16153  
+K16153; phosphorylase / glycogen(starch) synthase [EC:2.4.1.1 2.4.1.11]
+K00703  
+E2.4.1.21, glgA; starch synthase [EC:2.4.1.21]
+K16148  
+glgA; starch synthase [EC:2.4.1.21]
+K00750  
+GYG1, GYG2; glycogenin glucosyltransferase [EC:2.4.1.186]
+K13679  
+WAXY; granule-bound starch synthase [EC:2.4.1.242]
+K00694  
+bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]
+K10999  
+CESA; cellulose synthase A [EC:2.4.1.12]
+K13648  
+GAUT; alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+K08238  
+XXT; xyloglucan 6-xylosyltransferase [EC:2.4.2.39]
+K00770  
+E2.4.2.24; 1,4-beta-D-xylan synthase [EC:2.4.2.24]
+K13680  
+CSLA; beta-mannan synthase [EC:2.4.1.32]
+K11714  
+RGXT; rhamnogalacturonan II specific xylosyltransferase [EC:2.4.2.-]
+K00698  
+CHS1; chitin synthase [EC:2.4.1.16]
+K11000  
+CALS; callose synthase [EC:2.4.1.-]
+K13379  
+RGP, UTM; reversibly glycosylated polypeptide / UDP-arabinopyranose mutase [EC:2.4.1.- 5.4.99.30]
+K13681  
+FUT; xyloglucan fucosyltransferase [EC:2.4.1.-]
+K00706  
+E2.4.1.34; 1,3-beta-glucan synthase [EC:2.4.1.34]
+K00749  
+E2.4.1.183; alpha-1,3-glucan synthase [EC:2.4.1.183]
+K13682  
+BMT, WRY; beta-1,2-mannosyltransferase [EC:2.4.1.-]
+K14666  
+nodC; N-acetylglucosaminyltransferase [EC:2.4.1.-]
+K03814  
+mtgA; monofunctional biosynthetic peptidoglycan transglycosylase [EC:2.4.1.-]
+K05367  
+pbpC; penicillin-binding protein 1C [EC:2.4.1.-]
+K05365  
+mrcB; penicillin-binding protein 1B [EC:2.4.1.129 3.4.-.-]
+K05366  
+mrcA; penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-]
+K03693  
+pbp; penicillin-binding protein
+K12555  
+pbp2A; penicillin-binding protein 2A [EC:2.4.1.129 2.3.2.-]
+K12551  
+sgtA; transglycosylase [EC:2.4.1.-]
+K04478  
+sgtB; monofunctional glycosyltransferase [EC:2.4.1.-]
+K05364  
+E2.4.1.129; peptidoglycan glycosyltransferase [EC:2.4.1.129]
+K00748  
+lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K07264  
+arnT, pmrK; 4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43]
+K02527  
+kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K12981  
+waaZ, rfaZ; KDO transferase III [EC:2.-.-.-]
+K02841  
+waaC, rfaC; heptosyltransferase I [EC:2.4.-.-]
+K02843  
+waaF, rfaF; heptosyltransferase II [EC:2.4.-.-]
+K02849  
+waaQ, rfaQ; heptosyltransferase III [EC:2.4.-.-]
+K03277  
+waaU, rfaK; heptosyltransferase IV [EC:2.4.-.-]
+K12982  
+opsX; heptosyltransferase I [EC:2.4.-.-]
+K00713  
+waaD; UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.-]
+K03279  
+waaJ, rfaJ; UDP-glucose:(galactosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.58]
+K03275  
+waaO, rfaI; UDP-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+K03276  
+waaR, waaT, rfaJ; UDP-glucose/galactose:(glucosyl)LPS alpha-1,2-glucosyl/galactosyltransferase [EC:2.4.1.-]
+K12985  
+waaW; (galactosyl)LPS 1,2-glucosyltransferase [EC:2.4.1.-]
+K03278  
+waaI, rfaI; UDP-D-galactose:(glucosyl)LPS alpha-1,3-D-galactosyltransferase [EC:2.4.1.44]
+K12983  
+waaV; UDP-glucose:(glucosyl)LPS beta-1,3-glucosyltransferase [EC:2.4.1.-]
+K12984  
+waaE, kdtX; (heptosyl)LPS beta-1,4-glucosyltransferase [EC:2.4.1.-]
+K02844  
+waaG, rfaG; UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+K02840  
+waaB, rfaB; UDP-D-galactose:(glucosyl)LPS alpha-1,6-D-galactosyltransferase [EC:2.4.1.-]
+K03280  
+waaK, rfaK; UDP-N-acetylglucosamine:(glucosyl)LPS alpha-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.56]
+K12989  
+lpcC; mannosyltransferase [EC:2.4.1.-]
+K12986  
+waaS, rfaS; 1,5-rhamnosyltransferase [EC:2.4.1.-]
+K12987  
+migA; alpha-1,6-rhamnosyltransferase [EC:2.4.1.-]
+K12988  
+wapR; alpha-1,3-rhamnosyltransferase [EC:2.4.1.-]
+K12993  
+wbpX; alpha-1,2-rhamnosyltransferase [EC:2.4.1.-]
+K12994  
+wbpY; alpha-1,3-rhamnosyltransferase [EC:2.4.1.-]
+K12995  
+wbpZ; rhamnosyltransferase [EC:2.4.1.-]
+K12996  
+rgpA; rhamnosyltransferase [EC:2.4.1.-]
+K12997  
+rgpB; rhamnosyltransferase [EC:2.4.1.-]
+K07272  
+rgpF; rhamnosyltransferase [EC:2.4.1.-]
+K12998  
+rgpE; glucosyltransferase [EC:2.4.1.-]
+K12999  
+rgpI; glucosyltransferase [EC:2.4.1.-]
+K12990  
+K12990, rfbF; rhamnosyltransferase [EC:2.4.1.-]
+K12991  
+K12991, rfbG; rhamnosyltransferase [EC:2.4.1.-]
+K12992  
+rfbN; rhamnosyltransferase [EC:2.4.1.-]
+K13000  
+wbyJ; mannosyltransferase [EC:2.4.1.-]
+K13001  
+wbyK; mannosyltransferase [EC:2.4.1.-]
+K13002  
+wbyL; glycosyltransferase [EC:2.4.1.-]
+K13003  
+wbtG; glycosyltransferase [EC:2.4.1.-]
+K13004  
+wbtD; galacturonosyltransferase [EC:2.4.1.-]
+K13005  
+rfbV; abequosyltransferase [EC:2.4.1.-]
+K13007  
+wbpL; Fuc2NAc and GlcNAc transferase [EC:2.4.1.-]
+K02851  
+wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]
+K13683  
+wcaE; putative colanic acid biosynthesis glycosyltransferase [EC:2.4.-.-]
+K13684  
+wcaC; putative colanic acid biosynthesis glycosyltransferase [EC:2.4.-.-]
+K02852  
+rffM; UDP-N-acetyl-D-mannosaminuronic acid transferase [EC:2.4.1.-]
+K12582  
+wecF, rffT; TDP-Fuc4NAc transferase [EC:2.4.1.-]
+K02853  
+wzyE, rffT; 4-alpha-L-fucosyltransferase [EC:2.4.1.-]
+K05946  
+E2.4.1.187, tagA; N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase [EC:2.4.1.187]
+K00712  
+tagE; poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]
+K00692  
+sacB; levansucrase [EC:2.4.1.10]
+K13671  
+K13671; alpha-1,2-mannosyltransferase [EC:2.4.1.-]
+K14337  
+mptA; alpha-1,6-mannosyltransferase [EC:2.4.1.-]
+K14339  
+mptB; alpha-1,6-mannosyltransferase [EC:2.4.1.-]
+K14340  
+K14340; mannosyltransferase [EC:2.4.1.-]
+K11385  
+embA; arabinosyltransferase A [EC:2.4.2.-]
+K11386  
+embB; arabinosyltransferase B [EC:2.4.2.-]
+K11387  
+embC; arabinosyltransferase C [EC:2.4.2.-]
+K13686  
+aftA; galactan 5-O-arabinofuranosyltransferase [EC:2.4.2.46]
+K13687  
+aftB; arabinofuranosyltransferase [EC:2.4.2.-]
+K16647  
+aftC; arabinofuranan 3-O-arabinosyltransferase [EC:2.4.2.47]
+K16648  
+aftD; arabinofuranan 3-O-arabinosyltransferase [EC:2.4.2.-]
+K13688  
+chvB, cgs, ndvB; cyclic beta-1,2-glucan synthetase [EC:2.4.1.-]
+K13656  
+gumD; undecaprenyl-phosphate glucose phosphotransferase [EC:2.7.8.31]
+K13660  
+gumM; beta-1,4-glucosyltransferase [EC:2.4.1.-]
+K13657  
+gumH; alpha-1,3-mannosyltransferase [EC:2.4.1.252]
+K13659  
+gumK; 2-beta-glucuronyltransferase [EC:2.4.1.264]
+K13658 
+gumI; beta-1,4-mannosyltransferase  [EC:2.4.1.251]
+K13689  
+cgtA; beta-1,4-N-acetylgalactosaminyltransferase [EC:2.4.1.-]
+K16557  
+exoA; succinoglycan biosynthesis protein ExoA [EC:2.4.-.-]
+K16558  
+exoL; succinoglycan biosynthesis protein ExoL [EC:2.-.-.-]
+K16556  
+exoM; succinoglycan biosynthesis protein ExoM [EC:2.4.-.-]
+K16555  
+exoO; succinoglycan biosynthesis protein ExoO [EC:2.4.-.-]
+K16564  
+exoU; succinoglycan biosynthesis protein ExoU [EC:2.4.-.-]
+K16562  
+exoW; succinoglycan biosynthesis protein ExoW [EC:2.4.-.-]
+K16649  
+glft1; rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase [EC:2.4.1.287]
+K16650  
+glft2; galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase [EC:2.4.1.288]
+K16870  
+wbbL; N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase [EC:2.4.1.289] 
+K13690  
+CMT1; alpha-1,3-mannosyltransferase [EC:2.4.1.-]
+K11702  
+CXT1; beta-1,2-xylosyltransferase [EC:2.4.2.-]
+K00699  
+UGT; glucuronosyltransferase [EC:2.4.1.17]
+K11820  
+UGT74B1; N-hydroxythioamide S-beta-glucosyltransferase [EC:2.4.1.195]
+K13691  
+SGT1; pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+K13692  
+IAGLU; UDP-glucose:(indol-3-yl)acetate beta-D-glucosyltransferase [EC:2.4.1.121]
+K05841  
+E2.4.1.173; sterol 3beta-glucosyltransferase [EC:2.4.1.173]
+K12338  
+UGT75C1; anthocyanidin 3-O-glucoside 5-O-glucosyltransferase [EC:2.4.1.298]
+K13493  
+UGT76C1_2; cytokinin-N-glucosyltransferase [EC:2.4.1.-]
+K13496  
+UGT73C; UDP-glucosyl transferase 73C [EC:2.4.1.-]
+K12356  
+UGT72E; coniferyl-alcohol glucosyltransferase [EC:2.4.1.111]
+K08237  
+E2.4.1.218; hydroquinone glucosyltransferase [EC:2.4.1.218]
+K12930  
+BZ1; anthocyanidin 3-O-glucosyltransferase [EC:2.4.1.115]
+K13030  
+UGT85B1; cyanohydrin beta-glucosyltransferase [EC:2.4.1.85]
+K13068  
+BRT1; sinapate 1-glucosyltransferase [EC:2.4.1.120]
+K10757  
+E2.4.1.91; flavonol 3-O-glucosyltransferase [EC:2.4.1.91]
+K08236  
+E2.4.1.210; limonoid glucosyltransferase [EC:2.4.1.210]
+K14596  
+crtX; zeaxanthin glucosyltransferase [EC:2.4.1.276]
+K14595  
+AOG; abscisate beta-glucosyltransferase [EC:2.4.1.263]
+K11718  
+HUGT; UDP-glucose:glycoprotein glucosyltransferase [EC:2.4.1.-]
+K00697  
+otsA; trehalose 6-phosphate synthase [EC:2.4.1.15]
+K16055  
+TPS; trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12]
+K13693  
+K13693; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.-]
+K05947  
+E2.4.1.217; mannosyl-3-phosphoglycerate synthase [EC:2.4.1.217]
+K03867  
+BGLUT; UDP-glucose:tetrahydrobiopterin glucosyltransferase [EC:2.4.1.-]
+K00695  
+E2.4.1.13; sucrose synthase [EC:2.4.1.13]
+K09660  
+MPDU1; mannose-P-dolichol utilization defect 1
+K16697  
+K16697, tuaC; teichuronic acid biosynthesis glycosyltransferase TuaC [EC:2.4.-.-]
+K16698  
+tuaG; teichuronic acid biosynthesis glycosyltransferase TuaG [EC:2.4.-.-]
+K16699  
+tuaH; teichuronic acid biosynthesis glycosyltransferase TuaH [EC:2.4.-.-]
+K16700  
+amsB; amylovoran biosynthesis glycosyltransferase AmsB [EC:2.4.-.-]
+K16701  
+amsD; amylovoran biosynthesis glycosyltransferase AmsD [EC:2.4.-.-]
+K16702  
+amsE; amylovoran biosynthesis glycosyltransferase AmsE [EC:2.4.-.-]
+K16703  
+wcaL, amsK; colanic acid/amylovoran biosynthesis glycosyltransferase [EC:2.4.-.-]
+K01022  
+CHST1; keratan sulfate 6-sulfotransferase 1 [EC:2.8.2.21]
+K04745  
+CHST2; carbohydrate 6-sulfotransferase 2 [EC:2.8.2.-]
+K01020  
+CHST3; chondroitin 6-sulfotransferase 3 [EC:2.8.2.17]
+K04746  
+CHST4; carbohydrate 6-sulfotransferase 4 [EC:2.8.2.-]
+K09670  
+CHST5; carbohydrate 6-sulfotransferase 5 [EC:2.8.2.-]
+K09671  
+CHST6; carbohydrate 6-sulfotransferase 6 [EC:2.8.2.-]
+K04743  
+CHST7; chondroitin 6-sulfotransferase 7 [EC:2.8.2.17]
+K09672 
+CHST8; carbohydrate 4-sulfotransferase 8 [EC:2.8.2.-]
+K09673  
+CHST9; carbohydrate 4-sulfotransferase 9 [EC:2.8.2.-]
+K09674  
+CHST10; carbohydrate 3-sulfotransferase 10 [EC:2.8.2.-]
+K01017  
+CHST11; chondroitin 4-sulfotransferase 11 [EC:2.8.2.5]
+K04742  
+CHST12; chondroitin 4-sulfotransferase 12 [EC:2.8.2.5]
+K07779  
+CHST13; chondroitin 4-sulfotransferase 13 [EC:2.8.2.5]
+K08106  
+CHST15; N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase [EC:2.8.2.33]
+K01019  
+GAL3ST1; galactosylceramide sulfotransferase [EC:2.8.2.11]
+K09675  
+GAL3ST2; galactose-3-O-sulfotransferase 2 [EC:2.8.2.-]
+K09676  
+GAL3ST3; galactose-3-O-sulfotransferase 3 [EC:2.8.2.-]
+K09677  
+GAL3ST4; galactose-3-O-sulfotransferase 4 [EC:2.8.2.-]
+K02513  
+HS2ST1; heparan sulfate 2-O-sulfotransferase HS2ST1 [EC:2.8.2.-]
+K01024  
+HS3ST1; [heparan sulfate]-glucosamine 3-sulfotransferase 1 [EC:2.8.2.23]
+K07808  
+HS3ST2; [heparan sulfate]-glucosamine 3-sulfotransferase 2 [EC:2.8.2.29]
+K07809  
+HS3ST3; [heparan sulfate]-glucosamine 3-sulfotransferase 3 [EC:2.8.2.30]
+K09678  
+HS3ST4; [heparan sulfate]-glucosamine 3-sulfotransferase 4 [EC:2.8.2.-]
+K08104  
+HS3ST5; [heparan sulfate]-glucosamine 3-sulfotransferase 5 [EC:2.8.2.23]
+K09679  
+HS3ST6; [heparan sulfate]-glucosamine 3-sulfotransferase 6 [EC:2.8.2.-]
+K02514  
+HS6ST1; heparan sulfate 6-O-sulfotransferase HS6ST1 [EC:2.8.2.-]
+K08102  
+HS6ST2; heparan sulfate 6-O-sulfotransferase HS6ST2 [EC:2.8.2.-]
+K08103  
+HS6ST3; heparan sulfate 6-O-sulfotransferase HS6ST3 [EC:2.8.2.-]
+K02576  
+NDST1; heparan sulfate N-deacetylase/N-sulfotransferase NDST1 [EC:3.1.1.- 2.8.2.-]
+K02577  
+NDST2; heparan sulfate N-deacetylase/N-sulfotransferase NDST2 [EC:3.1.1.- 2.8.2.-]
+K02578  
+NDST3; heparan sulfate N-deacetylase/N-sulfotransferase NDST3 [EC:3.1.1.- 2.8.2.-]
+K02579  
+NDST4; heparan sulfate N-deacetylase/N-sulfotransferase NDST4 [EC:3.1.1.- 2.8.2.-]
+K03193  
+UST; dermatan/chondrotin sulfate uronyl 2-O-sulfotransferase UST [EC:2.8.2.-]
+K08105  
+D4ST1; dermatan 4-sulfotransferase 1 [EC:2.8.2.35]

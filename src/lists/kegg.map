@@ -1,0 +1,171 @@
+Sulfur metabolism	sulfur.list
+Carbon metabolism	carbon.list
+Fatty acid metabolism	fatacid.list
+Amino acid biosyntesis	aminoabiosyn.list
+Aromatic degradation	aromaticdeg.list
+Glycolysis and gluconeogenesis	glyglu.list
+Citrate cycle	citrate.list
+Pentose phosphate pathway	pentose.list
+Pentose and glucuronate interconversions	pentgluc.list
+Fructose and mannose metabolism	frucmann.list
+Galactose metabolism	galactose.list
+Ascorbate and aldarate metabolism	ascald.list
+Starch and sucrose metabolism	starch.list
+Amino sugar and nucleotide sugar metabolism	anucsugar.list
+Pyruvate metabolism	pyruvate.list
+Glyoxylate and di carboxylate metabolism	glyoxylate.list
+Propanoate metabolism	propanoate.list
+Butanoate metabolism	butanoate.list
+C5-Branched dibasic acid metabolism	c5.list
+Inositol phosphate metabolism	inositol.list
+Oxidative phosphorylation	oxphos.list
+Photosynthesis	photosynthesis.list
+Photosynthesis - antenna proteins	photosynap.list
+Photosynthesis proteins other	photoother.list
+Carbon fixation - photosynthetic organisms	carbonphoto.list
+Carbon fixation pathways - prokaryotes	carbonprok.list
+Methane metabolism	methane.list
+Nitrogen metabolism	nitrogen.list
+Fatty acid biosynthesis	facidbio.list
+Fatty acid elongation	facidelong.list
+Fatty acid degradation	faciddeg.list
+Ketone synthesis and degradation	ketone.list
+Cutin, suberine and wax biosynthesis	csw.list
+Steroid biosynthesis	steroid.list
+Primary bile acid biosynthesis	pribile.list
+Secondary bile acid biosynthesis	secbile.list
+Steroid hormone biosynthesis	sterhor.list
+Glycerolipid metabolism	glycerolipid.list
+Glycerophospholipid metabolism	glycerophospholipid.list
+Ether lipid metabolism	ether.list
+Sphingolipid metabolism	sphingo.list
+Arachidonic acid metabolism	arachidonicacid.list
+Linoleic acid metabolism	linoleic.list
+alpha-Linolenic acid metabolism	alphalinoleic.list
+Unsaturated fatty acid biosynthesis	unsat.list
+Lipid biosynthesis proteins	lipidbio.list
+Purine metabolism	purines.list
+Pyrimidine metabolism	pyrimidines.list
+Alanine, aspartate and glutamate metabolism	ADE.list
+Glycine, serine and threonine metabolism	GST.list
+Cysteine and methionine metabolism	CM.list
+Valine, leucine and isoleucine degradation	VLIdeg.list
+Valine, leucine and isoleucine biosynthesis	VLI.list
+Lysine biosynthesis	K.list
+Lysine degradation	Kdeg.list
+Arginine and proline biosynthesis	RP.list
+Histidine metabolism	H.list
+Tyrosine metabolism	Y.list
+Phenylalanine metabolism	F.list
+Tryptophan metabolism	W.list
+Phenylalanine, tyrosine and tryptophan biosynthesis	FYW.list
+Amino acid related enzymes	aaenz.list
+beta-Alanine biosynthesis	bala.list
+Taurine and hypotaurine metabolism	taur.list
+Phosphonate and phosphinate metabolism	phosphos.list
+Selenocompound metabolism	seleno.list
+D-Glutamine and D-glutamate metabolism	dglu.list
+D-Arginine and D-ornithine metabolism	dargorn.list
+D-Alanine metabolism	dala.list
+Glutathione metabolism	glutat.list
+Glycosyltransferases	glycosylx.list
+N-Glycan biosynthesis	nglycan.list
+Various types of N-glycan biosynthesis	nglycanmisc.list
+Mucin type O-Glycan biosynthesis	mucin.list
+Other types of O-glycan biosynthesis	oglymisc.list
+Glycosaminoglycan biosynthesis - chondroitin/dermatan sulfate	glycosaminsul.list
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	heparin.list
+Glycosaminoglycan biosynthesis - keratan sulfate	keratan.list
+Proteoglycans	protgly.list
+Heparan sulfate/heparin binding proteins	heparinbinders.list
+Glycosaminoglycan degradation	glycosadeg.list
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	gpi.list
+Glycosphingolipid biosynthesis - lacto and neolacto series	glylacto.list
+Glycosphingolipid biosynthesis - globo series	glyglobo.list
+Glycosphingolipid metabolism - ganglio series	glygang.list
+Lipopolysaccharide metabolism	lipopol.list
+Lipopolysaccharide Biosynthesis Proteins	lipopolpro.list
+Peptidoglycan biosynthesis	peptidoglycan.list
+Other glycan degradation	miscglydeg.list
+Thiamine metabolism	thi.list
+Riboflavin metabolism	ribo.list
+Vitamin B6 metabolism	b6.list
+Nicotinate and nicotinamide metabolism	nico.list
+Pantothenate and CoA biosynthesis	pantcoa.list
+Biotin metabolism	biotin.list
+Lipoic acid metabolism	lipoica.list
+Folate biosynthesis	folate.list
+One carbon pool by folate	folate1c.list
+Retinol metabolism	retinol.list
+Porphyrin and chlorophyll metabolism	porchlor.list
+Ubiquinone and other terpenoid-quinone biosynthesis	ubiq.list
+Prenyltransferases	prenyl.list
+Terpenoid backbone metabolism	terpback.list
+Monoterpenoid biosynthesis	monoterp.list
+Sesquiterpenoid and triterpenoid biosynthesis	sestri.list
+Diterpenoid biosynthesis	diterp.list
+Carotenoid metabolism	carot.list
+Brassinosteroid biosynthesis	brass.list
+Insect hormone biosynthesis	insect.list
+Zeatin biosynthesis	zeatin.list
+Limonene & pinene degradation	limpindeg.list
+Geraniol degradation	geran.list
+Polyketide biosynthesis proteins	polyketides.list
+Type I polyketide structures	type1polyketides.list
+Biosynthesis of 12-, 14- and 16-membered macrolides	macro.list
+Biosynthesis of ansamycins	ansa.list
+Biosynthesis of type II polyketide backbone	type2polykback.list
+Biosynthesis of type II polyketide products	type2polyk.list
+Tetracycline biosynthesis	tetracy.list
+Polyketide sugar unit biosynthesis	polysug.list
+Nonribosomal peptides	nrps.list
+Siderophore group biosynthesis (nonribosomal peptides)	sidero.list
+Biosynthesis of vancomycin group antibiotics	vanco.list
+Phenylpropanoid biosynthesis	phenylpropanoid.list
+Stilbenoid, diarylheptanoid and gingerol biosynthesis	sdg.list
+Flavonoid biosynthesis	flavo.list
+Flavone and flavonol biosynthesis	flavone.list
+Anthocyanin biosynthesis	antho.list
+Isoflavonoid biosynthesis	isoflavo.list
+Indole alkaloid biosynthesis	indolalk.list
+Isoquinoline alkaloid biosynthesis	isoqalk.list
+Tropane, piperidine and pyridine alkaloid biosynthesis	tropippy.list
+Acridone alkaloid biosynthesis	acrid.list
+Caffeine metabolism	caffeine.list
+Betalain biosynthesis	betalain.list
+Glucosinolate biosynthesis	glucosino.list
+Benzoxazinoid biosynthesis	benzox.list
+Penicillin and cephalosporin biosynthesis	penceph.list
+beta-Lactam resistance	blacres.list
+Streptomycin biosynthesis	strep.list
+Butirosin and neomycin biosynthesis	butneo.list
+Clavulanic acid biosynthesis	clav.list
+Puromycin biosynthesis	puro.list
+Novobiocin metabolism	novo.list
+Aflatoxin biosynthesis	afla.list
+Benzoate degradation	benzoatedeg.list
+Aminobenzoate degradation	aminoben.list
+Fluorobenzoate degradation	fluoroben.list
+Chloroalkane and chloroalkene degradation	chlordeg.list
+Chlorocyclohexane & chlorobenzene degradation	chlorcyben.list
+Toluene degradation	toludeg.list
+Xylene degradation	xydeg.list
+Nitrotoluene degradation	nitrotoldeg.list
+Ethylbenzene degradation	ethbendeg.list
+Styrene degradation	stydeg.list
+Atrazine degradation	atrazdeg.list
+Caprolactams degradation	capdeg.list
+DDTs degradation	ddtdeg.list
+Bisphenol degradation	bispdeg.list
+Dioxin degradation	dioxdeg.list
+Naphthalenes degradation	napdeg.list
+Polycyclic aromatic hydrocarbon degradation	pahdeg.list
+Furfural degradation	furfurdeg.list
+Steroid degradation	sterdeg.list
+Metabolism of xenobiotics by cytochrome P450	xcyp450.list
+Drug metabolism - cytochrome P450	drugmet.list
+Drug metabolism - misc	drugmetmisc.list
+Enzyme families - Enzymes	enzymes.list
+Enzyme families - Cytochrome P450	cytochromep450.list
+Enzyme families - Peptidases	peptidases.list
+Enzyme families - Protein Kinases	proteinkinases.list

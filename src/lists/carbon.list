@@ -1,0 +1,78 @@
+M00001  
+Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate [PATH:ko01200]
+M00002  
+Glycolysis, core module involving three-carbon compounds [PATH:ko01200]
+M00004  
+Pentose phosphate pathway (Pentose phosphate cycle) [PATH:ko01200]
+M00005  
+PRPP biosynthesis, ribose 5P => PRPP [PATH:ko01200]
+M00007  
+Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P [PATH:ko01200]
+M00008  
+Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate [PATH:ko01200]
+M00009  
+Citrate cycle (TCA cycle, Krebs cycle) [PATH:ko01200]
+M00010  
+Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:ko01200]
+M00011  
+Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate [PATH:ko01200]
+M00012  
+Glyoxylate cycle [PATH:ko01200]
+M00013  
+Malonate semialdehyde pathway, propanoyl-CoA => Acetyl-CoA [PATH:ko01200]
+M00020  
+Serine biosynthesis, glycerate-3P => serine [PATH:ko01200]
+M00021  
+Cysteine biosynthesis, serine => cysteine [PATH:ko01200]
+M00165  
+Reductive pentose phosphate cycle (Calvin cycle) [PATH:ko01200]
+M00166  
+Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P [PATH:ko01200]
+M00167  
+Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P [PATH:ko01200]
+M00168  
+CAM (Crassulacean acid metabolism), dark [PATH:ko01200]
+M00169  
+CAM (Crassulacean acid metabolism), light [PATH:ko01200]
+M00170  
+C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type [PATH:ko01200]
+M00171  
+C4-dicarboxylic acid cycle, NAD - malic enzyme type [PATH:ko01200]
+M00172  
+C4-dicarboxylic acid cycle, NADP - malic enzyme type [PATH:ko01200]
+M00173  
+Reductive citrate cycle (Arnon-Buchanan cycle) [PATH:ko01200]
+M00174  
+Methane oxidation, methanotroph, methane => formaldehyde [PATH:ko01200]
+M00307  
+Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:ko01200]
+M00308  
+Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glyceraldehyde-3P + pyruvate [PATH:ko01200]
+M00309  
+Non-phosphorylative Entner-Doudoroff pathway, gluconate => glyceraldehyde + pyruvate [PATH:ko01200]
+M00344  
+Formaldehyde assimilation, xylulose monophosphate pathway [PATH:ko01200]
+M00345  
+Formaldehyde assimilation, ribulose monophosphate pathway [PATH:ko01200]
+M00346  
+Formaldehyde assimilation, serine pathway [PATH:ko01200]
+M00356  
+Methanogenesis, methanol => methane [PATH:ko01200]
+M00357  
+Methanogenesis, acetate => methane [PATH:ko01200]
+M00374  
+Dicarboxylate-hydroxybutyrate cycle [PATH:ko01200]
+M00375  
+Hydroxypropionate-hydroxybutylate cycle [PATH:ko01200]
+M00376  
+3-Hydroxypropionate bi-cycle [PATH:ko01200]
+M00377  
+Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) [PATH:ko01200]
+M00563  
+Methanogenesis, methylamine/dimethylamine/trimethylamine => methane [PATH:ko01200]
+M00567  
+Methanogenesis, CO2 => methane [PATH:ko01200]
+M00579  
+Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate [PATH:ko01200]
+M00580  
+Pentose phosphate pathway, archaea, fructose 6P => ribose 5P [PATH:ko01200]

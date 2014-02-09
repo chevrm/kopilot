@@ -1,0 +1,214 @@
+K04519  
+IL1B; interleukin 1 beta
+K05429  
+IL2; interleukin 2
+K04736  
+IL3; interleukin 3
+K05430  
+IL4; interleukin 4
+K05428  
+IL5; interleukin 5
+K05431  
+IL7; interleukin 7
+K05443  
+IL10, CSIF; interleukin 10
+K05406  
+IL12A; interleukin 12A
+K05425  
+IL12B; interleukin 12B
+K05427  
+CSF2, GMCSF; granulocyte-macrophage colony-stimulating factor
+K04687  
+IFNG; interferon gamma
+K03156  
+TNFA; tumor necrosis factor superfamily, member 2
+K14624  
+CCL2, MCP1; C-C motif chemokine 2
+K05408  
+CCL3; C-C motif chemokine 3
+K12499  
+CCL5; C-C motif chemokine 5
+K16595  
+CCL13; C-C motif chemokine 13
+K05407  
+PF4, CXCL4; platelet factor 4
+K10030  
+IL8, CXCL8; interleukin 8
+K12671  
+CXCL10, IP10; C-X-C motif chemokine 10
+K10031  
+CXCL12; C-X-C motif chemokine 12
+K06495  
+SELL; selectin, lymphocyte
+K06496  
+SELP; selectin, platele
+K06461  
+ITGAM; integrin alpha M
+K06491  
+NCAM; neural cell adhesion molecule
+K06471  
+PECAM1, CD31; platelet/endothelial cell adhesion molecule
+K04662  
+BMP2_4; bone morphogenetic protein 2/4
+K16621  
+BMP7; bone morphogenetic protein 7
+K06224  
+HH; hedgehog
+K11988  
+SHH; sonic hedgehog
+K03209  
+WNT1; wingless-type MMTV integration site family, member 1
+K00182  
+WNT2; wingless-type MMTV integration site family, member 2
+K00312  
+WNT3; wingless-type MMTV integration site family, member 3
+K00408  
+WNT4; wingless-type MMTV integration site family, member 4
+K00444  
+WNT5; wingless-type MMTV integration site family, member 5
+K00445  
+WNT6; wingless-type MMTV integration site family, member 6
+K00572  
+WNT7; wingless-type MMTV integration site family, member 7
+K00714  
+WNT8; wingless-type MMTV integration site family, member 8
+K01064  
+WNT9; wingless-type MMTV integration site family, member 9
+K01357  
+WNT10; wingless-type MMTV integration site family, member 10
+K01384  
+WNT11; wingless-type MMTV integration site family, member 11
+K01558  
+WNT16; wingless-type MMTV integration site family, member 16
+K09782  
+AREG; amphiregulin
+K09783  
+BTC; betacellulin
+K04358  
+FGF; fibroblast growth factor
+K04362  
+FGFR1; fibroblast growth factor receptor 1 [EC:2.7.10.1]
+K05093  
+FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+K08523  
+HBEGF; heparin-binding EGF-like growth factor
+K05460  
+HGF; hepatocyte growth factor
+K06828  
+MDK; midkine
+K13769  
+IGF2; insulin-like growth factor 2
+K05455  
+NRG1; neuregulin 1
+K16641  
+HDGF; hepatoma-derived growth factor
+K04359  
+PDGFA; platelet-derived growth factor subunit A
+K17386  
+PDGFB; platelet-derived growth factor subunit B
+K13375  
+TGFB1; transforming growth factor beta-1
+K13376  
+TGFB2; transforming growth factor beta-2
+K16642  
+PTN; pleiotrophin
+K05448  
+VEGFA; vascular endothelial growth factor A
+K03903  
+FGA; fibrinogen alpha chain
+K03904  
+FGB; fibrinogen beta chain
+K03905  
+FGG; fibrinogen gamma chain
+K05717  
+FN1; fibronectin 1
+K06825  
+FBN1; fibrillin 1
+K06252  
+TN; tenascin
+K16857  
+THBS1; thrombospondin 1
+K04659  
+THBS2S; thrombospondin 2/3/4/5
+K06251  
+VTN; vitronectin
+K06236  
+COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+K06237  
+COL4A; collagen, type IV, alpha
+K06238  
+COL6A; collagen, type VI, alpha
+K16617  
+COL13A; collagen, type XIII, alpha
+K06823  
+COL18A; collagen, type XVIII, alpha
+K05462  
+EFNA; ephrin-A
+K06843  
+NTN1; netrin 1
+K06838  
+SLIT1; slit 1
+K06839  
+SLIT2; slit 2
+K06850  
+SLIT3; slit 3
+K01313  
+F2; coagulation factor II (thrombin) [EC:3.4.21.5]
+K01314  
+F10; coagulation factor X [EC:3.4.21.6]
+K03913  
+SERPINA5, PCI; protein C inhibitor
+K03911  
+SERPINC1, AT3; antithrombin III
+K03912  
+SERPIND1, HCF2; heparin cofactor II
+K03982  
+SERPINE1, PAI1; plasminogen activator inhibitor-1
+K16643  
+SERPINE2; glia-derived nexin
+K01343  
+PLAT; tissue plasminogen activator [EC:3.4.21.68]
+K01348  
+PLAU; urokinase plasminogen activator [EC:3.4.21.73]
+K03909  
+TFPI; tissue factor pathway inhibitor
+K01327  
+ELANE; leukocyte elastase [EC:3.4.21.37]
+K07964  
+HPSE; heparanase 1 [EC:3.2.1.166]
+K07965  
+HPSE2; heparanase 2 [EC:3.2.1.-]
+K01197  
+hya; hyaluronoglucosaminidase [EC:3.2.1.35]
+K01059  
+LPL; lipoprotein lipase [EC:3.1.1.34]
+K16627  
+SOD3; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
+K13836  
+CSP; circumsporozoite protein
+K15125  
+fhaB; filamentous hemagglutinin
+K16644  
+actA; actin-assembly inducing protein
+K16645  
+hbhA; heparin binding hemagglutinin HbhA
+K16631  
+ANG, RNASE5; angiogenin [EC:3.1.27.-]
+K16646  
+ANXA5; annexin A5
+K09025  
+APOA5; apolipoprotein A-V
+K14462  
+APOB; apolipoprotein B
+K04524  
+APOE; apolipoprotein E
+K04520  
+APP; amyloid beta A4 protein
+K01363  
+CTSB; cathepsin B [EC:3.4.22.1]
+K01319  
+CTSG; cathepsin G [EC:3.4.21.20]
+K05634  
+PRNP, PrP; prion protein
+K05849  
+SLC8A, NCX; solute carrier family 8 (sodium/calcium exchanger)

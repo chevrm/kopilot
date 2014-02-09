@@ -1,0 +1,64 @@
+M00002  
+Glycolysis, core module involving three-carbon compounds [PATH:ko01230]
+M00005  
+PRPP biosynthesis, ribose 5P => PRPP [PATH:ko01230]
+M00007  
+Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P [PATH:ko01230]
+M00010  
+Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:ko01230]
+M00015  
+Proline biosynthesis, glutamate => proline [PATH:ko01230]
+M00016  
+Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine [PATH:ko01230]
+M00017  
+Methionine biosynthesis, apartate => homoserine => methionine [PATH:ko01230]
+M00018  
+Threonine biosynthesis, aspartate => homoserine => threonine [PATH:ko01230]
+M00019  
+Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine [PATH:ko01230]
+M00020  
+Serine biosynthesis, glycerate-3P => serine [PATH:ko01230]
+M00021  
+Cysteine biosynthesis, serine => cysteine [PATH:ko01230]
+M00022  
+Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate [PATH:ko01230]
+M00023  
+Tryptophan biosynthesis, chorismate => tryptophan [PATH:ko01230]
+M00024  
+Phenylalanine biosynthesis, chorismate => phenylalanine [PATH:ko01230]
+M00025  
+Tyrosine biosynthesis, chorismate => tyrosine [PATH:ko01230]
+M00026  
+Histidine biosynthesis, PRPP => histidine [PATH:ko01230]
+M00028  
+Ornithine biosynthesis, glutamate => ornithine [PATH:ko01230]
+M00029  
+Urea cycle [PATH:ko01230]
+M00030  
+Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine [PATH:ko01230]
+M00031  
+Lysine biosynthesis, 2-aminoadipate => lysine [PATH:ko01230]
+M00033  
+Ectoine biosynthesis, aspartate => ectoine [PATH:ko01230]
+M00040  
+Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine [PATH:ko01230]
+M00338  
+Cysteine biosynthesis, homocysteine + serine => cysteine [PATH:ko01230]
+M00432  
+Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate [PATH:ko01230]
+M00433  
+Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate [PATH:ko01230]
+M00525  
+Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine [PATH:ko01230]
+M00526  
+Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine [PATH:ko01230]
+M00527  
+Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine [PATH:ko01230]
+M00535  
+Isoleucine biosynthesis, pyruvate => 2-oxobutanoate [PATH:ko01230]
+M00570  
+Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine [PATH:ko01230]
+M00580  
+Pentose phosphate pathway, archaea, fructose 6P => ribose 5P [PATH:ko01230]
+M00609  
+Cysteine biosynthesis, methionine => cysteine [PATH:ko01230]

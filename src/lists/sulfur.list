@@ -1,0 +1,172 @@
+K02048  
+sulfate transport system substrate-binding protein
+K02046  
+sulfate transport system permease protein
+K02047  
+sulfate transport system permease protein
+K02045  
+sulfate transport system ATP-binding protein [EC:3.6.3.25]
+K15551  
+taurine transport system substrate-binding protein
+K15552  
+taurine transport system permease protein
+K10831  
+taurine transport system ATP-binding protein [EC:3.6.3.36]
+K03119  
+taurine dioxygenase [EC:1.14.11.17]
+K15553  
+sulfonate transport system substrate-binding protein
+K15554  
+sulfonate transport system permease protein
+K15555  
+sulfonate transport system ATP-binding protein [EC:3.6.3.-]
+K04091  
+alkanesulfonate monooxygenase [EC:1.14.14.5]
+K13811  
+3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.1.25 2.7.7.4]
+K00955  
+bifunctional enzyme CysN/CysC [EC:2.7.1.25 2.7.7.4]
+K00956  
+sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]
+K00957  
+sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]
+K00958  
+sulfate adenylyltransferase [EC:2.7.7.4]
+K00860  
+adenylylsulfate kinase [EC:2.7.1.25]
+K01082  
+3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]
+K15759  
+inositol monophosphatase 3 [EC:3.1.3.7 3.1.3.25]
+K15422  
+3'(2'), 5'-bisphosphate nucleotidase / inositol polyphosphate 1-phosphatase [EC:3.1.3.57 3.1.3.7]
+K00394  
+adenylylsulfate reductase, subunit A [EC:1.8.99.2]
+K00395  
+adenylylsulfate reductase, subunit B [EC:1.8.99.2]
+K05907  
+adenylyl-sulfate reductase (glutathione) [EC:1.8.4.9]
+K00390  
+phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]
+K00387  
+sulfite oxidase [EC:1.8.3.1]
+K05301  
+sulfite dehydrogenase [EC:1.8.2.1]
+K17222  
+sulfur-oxidizing protein SoxA
+K17223  
+sulfur-oxidizing protein SoxX
+K17226  
+sulfur-oxidizing protein SoxY
+K17227  
+sulfur-oxidizing protein SoxZ
+K17224  
+sulfur-oxidizing protein SoxB
+K17225  
+sulfane dehydrogenase subunit SoxC
+K08738  
+cytochrome c
+K11180  
+sulfite reductase alpha subunit [EC:1.8.99.1 1.8.99.3]
+K11181  
+sulfite reductase beta subunit [EC:1.8.99.1 1.8.99.3]
+K00380  
+sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]
+K00381  
+sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]
+K16950  
+anaerobic sulfite reductase subunit A
+K16951  
+anaerobic sulfite reductase subunit B
+K00385  
+anaerobic sulfite reductase subunit C
+K00392  
+sulfite reductase (ferredoxin) [EC:1.8.7.1]
+K17725  
+sulfur dioxygenase [EC:1.13.11.18]
+K17229  
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain [EC:1.8.2.3]
+K17230  
+cytochrome subunit of sulfide dehydrogenase
+K16952  
+sulfur oxygenase/reductase [EC:1.13.11.55]
+K17219  
+sulfur reductase molybdopterin subunit
+K17220  
+sulfur reductase FeS subunit
+K17221  
+sulfur reductase membrane anchor
+K16936  
+thiosulfate dehydrogenase [quinone] small subunit [EC:1.8.5.2]
+K16937  
+thiosulfate dehydrogenase [quinone] large subunit [EC:1.8.5.2]
+K08357  
+tetrathionate reductase subunit A
+K08358  
+tetrathionate reductase subunit B
+K08359  
+tetrathionate reductase subunit C
+K08352  
+thiosulfate reductase / polysulfide reductase chain A
+K08353  
+thiosulfate reductase electron transport protein
+K08354  
+thiosulfate reductase cytochrome b subunit
+K01011  
+thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.2 2.8.1.1]
+K02439  
+thiosulfate sulfurtransferase [EC:2.8.1.1]
+K00640  
+serine O-acetyltransferase [EC:2.3.1.30]
+K10150  
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase [EC:4.2.1.22 2.5.1.65 2.5.1.47]
+K01738  
+cysteine synthase A [EC:2.5.1.47]
+K12339  
+cysteine synthase B [EC:2.5.1.47]
+K13034  
+L-3-cyanoalanine synthase/ cysteine synthase [EC:4.4.1.9 2.5.1.47]
+K17069  
+O-acetylhomoserine/O-acetylserine sulfhydrylase [EC:2.5.1.47 2.5.1.49]
+K00651  
+homoserine O-succinyltransferase [EC:2.3.1.46]
+K01739  
+cystathionine gamma-synthase [EC:2.5.1.48]
+K10764  
+O-succinylhomoserine sulfhydrylase [EC:2.5.1.-]
+K17217  
+cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.2 4.4.1.1]
+K17228  
+FMNH2-dependent dimethyl sulfone monooxygenase
+K16968  
+large subunit of the hydroxylase component of methanesulfonate monooxygenase [EC:1.14.13.111]
+K16969  
+small subunit of the hydroxylase component of methanesulfonate monooxygenase [EC:1.14.13.111]
+K15762  
+toluene monooxygenase system ferredoxin subunit
+K15765  
+toluene monooxygenase electron transfer component [EC:1.18.1.3]
+K07306  
+anaerobic dimethyl sulfoxide reductase subunit A [EC:1.8.5.3]
+K07307  
+anaerobic dimethyl sulfoxide reductase subunit B (DMSO reductase iron- sulfur subunit)
+K07308  
+anaerobic dimethyl sulfoxide reductase subunit C (DMSO reductase anchor subunit)
+K16964  
+dimethylsulfide dehydrogenase subunit alpha [EC:1.8.2.4]
+K16965  
+dimethylsulfide dehydrogenase subunit beta
+K16966  
+dimethylsulfide dehydrogenase subunit gamma
+K16953  
+dimethylpropiothetin dethiomethylase [EC:4.4.1.3]
+K17486  
+dimethylsulfoniopropionate demethylase [EC:2.1.1.269]
+K16967  
+dimethyl-sulfide monooxygenase [EC:1.14.13.131]
+K16954  
+methylthiol:coenzyme M methyltransferase [EC:2.1.1.251]
+K16955  
+methylated-thiol--corrinoid protein
+K17218  
+sulfide:quinone oxidoreductase [EC:1.8.5.-]

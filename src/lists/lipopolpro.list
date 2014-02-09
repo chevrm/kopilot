@@ -1,0 +1,190 @@
+K00748  
+lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K00677  
+lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K02536  
+lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+K02517  
+htrB; lipid A biosynthesis lauroyl acyltransferase [EC:2.3.1.-]
+K02560  
+msbB; lipid A biosynthesis (KDO)2-(lauroyl)-lipid iva acyltransferase [EC:2.3.1.-]
+K12973  
+pagP; palmitoyl transferase [EC:2.3.1.-]
+K12974  
+lpxP; palmitoleoyl transferase [EC:2.3.1.-]
+K03760  
+eptA; phosphoethanolamine transferase
+K12975  
+eptB; phosphoethanolamine transferase
+K02535  
+lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K16363  
+lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+K12976  
+pagL; lipid A 3-O-deacylase [EC:3.1.-.-]
+K09953  
+lpxR; lipid A 3-O-deacylase
+K03269  
+lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K07264  
+arnT, pmrK; 4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43]
+K00912  
+lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+K12977  
+lpxE; lipid A 1-phosphatase [EC:3.1.3.-]
+K12978  
+lpxF; lipid A 4'-phosphatase [EC:3.1.3.-]
+K12979  
+lpxO; beta-hydroxylase [EC:1.14.11.-]
+K12980  
+lpxQ; lipid A oxidase
+K02527  
+kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K12981  
+waaZ, rfaZ; KDO transferase III [EC:2.-.-.-]
+K02841  
+waaC, rfaC; heptosyltransferase I [EC:2.4.-.-]
+K02843  
+waaF, rfaF; heptosyltransferase II [EC:2.4.-.-]
+K02849  
+waaQ, rfaQ; heptosyltransferase III [EC:2.4.-.-]
+K03277  
+waaU, rfaK; heptosyltransferase IV [EC:2.4.-.-]
+K12982  
+opsX; heptosyltransferase I [EC:2.4.-.-]
+K02844  
+waaG, rfaG; UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+K03275  
+waaO, rfaI; UDP-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+K03276  
+waaR, waaT, rfaJ; UDP-glucose/galactose:(glucosyl)LPS alpha-1,2-glucosyl/galactosyltransferase [EC:2.4.1.-]
+K03279  
+waaJ, rfaJ; UDP-glucose:(galactosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.58]
+K12983  
+waaV; UDP-glucose:(glucosyl)LPS beta-1,3-glucosyltransferase [EC:2.4.1.-]
+K12984  
+waaE, kdtX; (heptosyl)LPS beta-1,4-glucosyltransferase [EC:2.4.1.-]
+K02840  
+waaB, rfaB; UDP-D-galactose:(glucosyl)LPS alpha-1,6-D-galactosyltransferase [EC:2.4.1.-]
+K03278  
+waaI, rfaI; UDP-D-galactose:(glucosyl)LPS alpha-1,3-D-galactosyltransferase [EC:2.4.1.44]
+K12985  
+waaW; (galactosyl)LPS 1,2-glucosyltransferase [EC:2.4.1.-]
+K03280  
+waaK, rfaK; UDP-N-acetylglucosamine:(glucosyl)LPS alpha-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.56]
+K12986  
+waaS, rfaS; 1,5-rhamnosyltransferase [EC:2.4.1.-]
+K12987  
+migA; alpha-1,6-rhamnosyltransferase [EC:2.4.1.-]
+K12988  
+wapR; alpha-1,3-rhamnosyltransferase [EC:2.4.1.-]
+K12989  
+lpcC; mannosyltransferase [EC:2.4.1.-]
+K02848  
+waaP, rfaP; heptose (I) phosphotransferase [EC:2.7.1.-]
+K02850  
+waaY, rfaY; heptose (II) phosphotransferase [EC:2.7.1.-]
+K00713  
+waaD; UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.-]
+K12990  
+K12990, rfbF; rhamnosyltransferase [EC:2.4.1.-]
+K12991  
+K12991, rfbG; rhamnosyltransferase [EC:2.4.1.-]
+K12992  
+rfbN; rhamnosyltransferase [EC:2.4.1.-]
+K12993  
+wbpX; alpha-1,2-rhamnosyltransferase [EC:2.4.1.-]
+K12994  
+wbpY; alpha-1,3-rhamnosyltransferase [EC:2.4.1.-]
+K12995  
+wbpZ; rhamnosyltransferase [EC:2.4.1.-]
+K12996  
+rgpA; rhamnosyltransferase [EC:2.4.1.-]
+K12997  
+rgpB; rhamnosyltransferase [EC:2.4.1.-]
+K07272  
+rgpF; rhamnosyltransferase [EC:2.4.1.-]
+K12998  
+rgpE; glucosyltransferase [EC:2.4.1.-]
+K12999  
+rgpI; glucosyltransferase [EC:2.4.1.-]
+K13000  
+wbyJ; mannosyltransferase [EC:2.4.1.-]
+K13001  
+wbyK; mannosyltransferase [EC:2.4.1.-]
+K13002  
+wbyL; glycosyltransferase [EC:2.4.1.-]
+K13003  
+wbtG; glycosyltransferase [EC:2.4.1.-]
+K13004  
+wbtD; galacturonosyltransferase [EC:2.4.1.-]
+K13005  
+rfbV; abequosyltransferase [EC:2.4.1.-]
+K08280  
+wbbJ; lipopolysaccharide O-acetyltransferase [EC:2.3.1.-]
+K13006  
+wbqR; UDP-perosamine 4-acetyltransferase [EC:2.3.1.-]
+K00996  
+E2.7.8.6, rfbP; undecaprenyl-phosphate galactose phosphotransferase [EC:2.7.8.6]
+K02851  
+wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33]
+K13007  
+wbpL; Fuc2NAc and GlcNAc transferase [EC:2.4.1.-]
+K13008  
+rfc, wbbH; O-antigen polymerase
+K13009  
+wzy; O-antigen polymerase
+K02847  
+waaL, rfaL; O-antigen ligase [EC:6.-.-.-]
+K05789  
+wzzB; chain length determinant protein (polysaccharide antigen chain regulator)
+K13010  
+per, rfbE; perosamine synthetase [EC:2.6.1.102]
+K13011  
+wbqL; O-antigen biosynthesis protein WbqL
+K13012  
+wbqP; O-antigen biosynthesis protein WbqP
+K13013  
+wbqV; O-antigen biosynthesis protein WbqV
+K01627  
+kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K03270  
+kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]
+K00979  
+kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K03271  
+gmhA, lpcA; D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]
+K03272  
+gmhC, hldE, waaE, rfaE; D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]
+K03273  
+gmhB; D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]
+K03274  
+gmhD, rfaD; ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]
+K10011  
+arnA, pmrI; UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating) [EC:2.1.2.13 1.1.1.305]
+K07806  
+arnB, pmrH; UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]
+K10012  
+arnC, pmrF; undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase [EC:2.4.2.53]
+K13014  
+arnD; undecaprenyl phosphate-alpha-L-ara4FN deformylase [EC:3.5.-.-]
+K12962  
+arnE; undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE
+K12963  
+arnF; undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF
+K13015  
+wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K02474  
+wbpO; UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]
+K13016  
+wbpB; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K13020  
+wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K13017  
+wbpE, wlbC; UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase [EC:2.6.1.98]
+K13018  
+wbpD, wlbB; UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase [EC:2.3.1.201]
+K01791  
+wecB; UDP-N-acetylglucosamine 2-epimerase [EC:5.1.3.14]
+K13019  
+wbpI, wlbD; UDP-GlcNAc3NAcA epimerase [EC:5.1.3.23]

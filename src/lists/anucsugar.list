@@ -1,0 +1,262 @@
+K01183  
+chitinase [EC:3.2.1.14]
+K13381  
+bifunctional chitinase/lysozyme [EC:3.2.1.17 3.2.1.14]
+K01207  
+beta-N-acetylhexosaminidase [EC:3.2.1.52]
+K12373  
+hexosaminidase [EC:3.2.1.52]
+K01452  
+chitin deacetylase [EC:3.5.1.41]
+K01233  
+chitosanase [EC:3.2.1.132]
+K15855  
+exo-1,4-beta-D-glucosaminidase [EC:3.2.1.165]
+K02777  
+PTS system, glucose-specific IIA component [EC:2.7.1.69]
+K11191  
+PTS system, N-acetylmuramic acid-specific IIB component [EC:2.7.1.69]
+K11192  
+PTS system, N-acetylmuramic acid-specific IIC component
+K07106  
+N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]
+K02802  
+PTS system, N-acetylglucosamine-specific IIA component [EC:2.7.1.69]
+K02803  
+PTS system, N-acetylglucosamine-specific IIB component [EC:2.7.1.69]
+K02804  
+PTS system, N-acetylglucosamine-specific IIC component
+K00884  
+N-acetylglucosamine kinase [EC:2.7.1.59]
+K01836  
+phosphoacetylglucosamine mutase [EC:5.4.2.3]
+K00972  
+UDP-N-acetylglucosamine pyrophosphorylase [EC:2.7.7.23]
+K04042  
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.3.1.157 2.7.7.23]
+K11528  
+UDP-N-acetylglucosamine pyrophosphorylase [EC:2.7.7.23]
+K01791  
+UDP-N-acetylglucosamine 2-epimerase [EC:5.1.3.14]
+K12409  
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase [EC:2.7.1.60 5.1.3.14]
+K00885  
+N-acylmannosamine kinase [EC:2.7.1.60]
+K13967  
+N-acetylmannosamine-6-phosphate 2-epimerase / N-acetylmannosamine kinase [EC:2.7.1.60 5.1.3.9]
+K01787  
+N-acylglucosamine 2-epimerase [EC:5.1.3.8]
+K01788  
+N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+K05304  
+sialic acid synthase [EC:2.5.1.57 2.5.1.56]
+K01097  
+N-acylneuraminate-9-phosphatase [EC:3.1.3.29]
+K01654  
+N-acetylneuraminate synthase [EC:2.5.1.56]
+K01639  
+N-acetylneuraminate lyase [EC:4.1.3.3]
+K00983  
+N-acylneuraminate cytidylyltransferase [EC:2.7.7.43]
+K08080  
+CMP-N-acetylneuraminate monooxygenase [EC:1.14.18.2]
+K00326  
+cytochrome-b5 reductase [EC:1.6.2.2]
+K15894  
+UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115]
+K15895  
+UDP-4-amino-4,6-dideoxy-L-N-acetyl-beta-L-altrosamine transaminase [EC:2.6.1.92]
+K15896  
+UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase [EC:2.3.1.202]
+K15897  
+UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase [EC:3.6.1.57]
+K15898  
+pseudaminic acid synthase [EC:2.5.1.97]
+K15899  
+pseudaminic acid cytidylyltransferase [EC:2.7.7.81]
+K00698  
+chitin synthase [EC:2.4.1.16]
+K02472  
+UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]
+K13015  
+UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K13016  
+UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K13020  
+UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K13017  
+UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase [EC:2.6.1.98]
+K13018  
+UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase [EC:2.3.1.201]
+K13019  
+UDP-GlcNAc3NAcA epimerase [EC:5.1.3.23]
+K02473  
+UDP-N-acetylglucosamine 4-epimerase [EC:5.1.3.7]
+K02474  
+UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]
+K00790  
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+K00075  
+UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+K02763  
+PTS system, D-glucosamine-specific IIA component [EC:2.7.1.69]
+K02764  
+PTS system, D-glucosamine-specific IIB component [EC:2.7.1.69]
+K02765  
+PTS system, D-glucosamine-specific IIC component
+K00844  
+hexokinase [EC:2.7.1.1]
+K03431  
+phosphoglucosamine mutase [EC:5.4.2.10]
+K01443  
+N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+K00621  
+glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4]
+K00847  
+fructokinase [EC:2.7.1.4]
+K02564  
+glucosamine-6-phosphate deaminase [EC:3.5.99.6]
+K00820  
+glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+K12446  
+L-arabinokinase [EC:2.7.1.46]
+K12447  
+UDP-sugar pyrophosphorylase [EC:2.7.7.64]
+K01209  
+alpha-N-arabinofuranosidase [EC:3.2.1.55]
+K15921  
+arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K00770  
+1,4-beta-D-xylan synthase [EC:2.4.2.24]
+K01198  
+xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+K15920  
+beta-D-xylosidase 4 [EC:3.2.1.37]
+K12448  
+UDP-arabinose 4-epimerase [EC:5.1.3.5]
+K16190  
+glucuronokinase [EC:2.7.1.43]
+K10011  
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating) [EC:1.1.1.305 2.1.2.13]
+K07806  
+UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]
+K10012  
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase [EC:2.4.2.53]
+K08678  
+UDP-glucuronate decarboxylase [EC:4.1.1.35]
+K12449  
+UDP-apiose/xylose synthase
+K02778  
+PTS system, glucose-specific IIB component [EC:2.7.1.69]
+K02779  
+PTS system, glucose-specific IIC component
+K00845  
+glucokinase [EC:2.7.1.2]
+K12407  
+glucokinase [EC:2.7.1.2]
+K00886  
+polyphosphate glucokinase [EC:2.7.1.63]
+K01810  
+glucose-6-phosphate isomerase [EC:5.3.1.9]
+K06859  
+glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]
+K13810  
+transaldolase / glucose-6-phosphate isomerase [EC:5.3.1.9 2.2.1.2]
+K15916  
+glucose/mannose-6-phosphate isomerase [EC:5.3.1.8 5.3.1.9]
+K01835  
+phosphoglucomutase [EC:5.4.2.2]
+K15778  
+phosphomannomutase / phosphoglucomutase [EC:5.4.2.2 5.4.2.8]
+K15779  
+phosphoglucomutase / phosphopentomutase [EC:5.4.2.7 5.4.2.2]
+K00963  
+UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+K00965  
+UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]
+K12450  
+UDP-glucose 4,6-dehydratase [EC:4.2.1.76]
+K12451  
+3,5-epimerase/4-reductase [EC:1.1.1.- 5.1.3.-]
+K00012  
+UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+K06118  
+UDP-sulfoquinovose synthase [EC:3.13.1.1]
+K00849  
+galactokinase [EC:2.7.1.6]
+K01784  
+UDP-glucose 4-epimerase [EC:5.1.3.2]
+K15917  
+UDP-glucose 4-epimerase / aldose 1-epimerase [EC:5.1.3.3 5.1.3.2]
+K17716  
+UDP-glucose 4-epimerase [EC:5.1.3.2]
+K08679  
+UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+K13648  
+alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+K02793  
+PTS system, mannose-specific IIA component [EC:2.7.1.69]
+K02794  
+PTS system, mannose-specific IIB component [EC:2.7.1.69]
+K02795  
+PTS system, mannose-specific IIC component
+K02796  
+PTS system, mannose-specific IID component
+K17497  
+phosphomannomutase [EC:5.4.2.8]
+K01840  
+phosphomannomutase [EC:5.4.2.8]
+K16881  
+mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:5.4.2.8 2.7.7.13]
+K00966  
+mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+K00971  
+mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+K16011  
+mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:5.3.1.8 2.7.7.13]
+K01711  
+GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+K15856  
+GDP-4-dehydro-6-deoxy-D-mannose reductase [EC:1.1.1.281]
+K13010  
+perosamine synthetase [EC:2.6.1.102]
+K01809  
+mannose-6-phosphate isomerase [EC:5.3.1.8]
+K10046  
+GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.- 5.1.3.18]
+K00066  
+GDP-mannose 6-dehydrogenase [EC:1.1.1.132]
+K11194  
+PTS system, fructose-specific IIA component [EC:2.7.1.69]
+K11195  
+PTS system, fructose-specific IIB component [EC:2.7.1.69]
+K11196  
+PTS system, fructose-specific IIC component
+K02771  
+PTS system, fructose-specific IID component
+K05305  
+fucokinase [EC:2.7.1.52]
+K00976  
+fucose-1-phosphate guanylyltransferase [EC:2.7.7.30]
+K02377  
+GDP-L-fucose synthase [EC:1.1.1.271]
+K00978  
+glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33]
+K01709  
+CDP-glucose 4,6-dehydratase [EC:4.2.1.45]
+K12452  
+CDP-6-deoxy-D-xylo-4-hexulose-3-dehydrase
+K00523  
+CDP-4-dehydro-6-deoxyglucose reductase [EC:1.17.1.1]
+K12453  
+CDP-paratose synthetase [EC:1.1.1.342]
+K12454  
+CDP-paratose 2-epimerase [EC:5.1.3.10]
+K12455  
+CDP-abequose synthase [EC:1.1.1.341]
+K15857  
+CDP-3, 6-dideoxy-D-glycero-D-glycero-4-hexulose-5-epimerase [EC:5.1.-.-]
+K15858  
+CDP-3, 6-dideoxy-D-glycero-L-glycero-4-hexulose-4-reductase [EC:1.1.1.-]
+K00975  
+glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]

@@ -1,0 +1,338 @@
+K11540  
+carbamoyl-phosphate synthase / aspartate carbamoyltransferase / dihydroorotase [EC:3.5.2.3 2.1.3.2 6.3.5.5]
+K11541  
+carbamoyl-phosphate synthase / aspartate carbamoyltransferase [EC:2.1.3.2 6.3.5.5]
+K01954  
+carbamoyl-phosphate synthase [EC:6.3.5.5]
+K01955  
+carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+K01956  
+carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+K00609  
+aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+K00610  
+aspartate carbamoyltransferase regulatory subunit
+K00608  
+aspartate carbamoyltransferase [EC:2.1.3.2]
+K01465  
+dihydroorotase [EC:3.5.2.3]
+K17828  
+dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]
+K02823  
+dihydroorotate dehydrogenase electron transfer subunit
+K00226  
+dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]
+K00254  
+dihydroorotate dehydrogenase [EC:1.3.5.2]
+K13421  
+uridine monophosphate synthetase [EC:4.1.1.23 2.4.2.10]
+K00762  
+orotate phosphoribosyltransferase [EC:2.4.2.10]
+K01591  
+orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+K00945  
+cytidylate kinase [EC:2.7.4.14]
+K13799  
+pantoate ligase / cytidylate kinase [EC:2.7.4.14 6.3.2.1]
+K13800  
+UMP-CMP kinase [EC:2.7.4.14 2.7.4.-]
+K13809  
+UMP-CMP kinase 2, mitochondrial [EC:2.7.4.14]
+K09903  
+uridylate kinase [EC:2.7.4.22]
+K00944  
+nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
+K00940  
+nucleoside-diphosphate kinase [EC:2.7.4.6]
+K00962  
+polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+K01510  
+apyrase [EC:3.6.1.5]
+K14641  
+apyrase [EC:3.6.1.5]
+K14642  
+golgi apyrase [EC:3.6.1.5]
+K12304  
+soluble calcium-activated nucleotidase 1 [EC:3.6.1.6]
+K12305  
+ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]
+K01511  
+ectonucleoside triphosphate diphosphohydrolase 5/6 [EC:3.6.1.6]
+K01519  
+inosine triphosphate pyrophosphatase [EC:3.6.1.19]
+K02428  
+dITP/XTP pyrophosphatase [EC:3.6.1.19]
+K01937  
+CTP synthase [EC:6.3.4.2]
+K03040  
+DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+K03043  
+DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+K03046  
+DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+K13797  
+DNA-directed RNA polymerase subunit beta-beta' [EC:2.7.7.6]
+K03048  
+DNA-directed RNA polymerase subunit delta
+K03060  
+DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+K03042  
+DNA-directed RNA polymerase subunit A" [EC:2.7.7.6]
+K03041  
+DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]
+K03044  
+DNA-directed RNA polymerase subunit B' [EC:2.7.7.6]
+K03045  
+DNA-directed RNA polymerase subunit B" [EC:2.7.7.6]
+K13798  
+DNA-directed RNA polymerase subunit B [EC:2.7.7.6]
+K03053  
+DNA-directed RNA polymerase subunit H [EC:2.7.7.6]
+K03055  
+DNA-directed RNA polymerase subunit K [EC:2.7.7.6]
+K03058  
+DNA-directed RNA polymerase subunit N [EC:2.7.7.6]
+K03047  
+DNA-directed RNA polymerase subunit D [EC:2.7.7.6]
+K03049  
+DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]
+K03050  
+DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]
+K03056  
+DNA-directed RNA polymerase subunit L [EC:2.7.7.6]
+K03059  
+DNA-directed RNA polymerase subunit P [EC:2.7.7.6]
+K03051  
+DNA-directed RNA polymerase subunit F [EC:2.7.7.6]
+K03052  
+DNA-directed RNA polymerase subunit G [EC:2.7.7.6]
+K03054  
+DNA-directed RNA polymerase subunit I [EC:2.7.7.6]
+K02999  
+DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6]
+K03002  
+DNA-directed RNA polymerase I subunit RPA2 [EC:2.7.7.6]
+K03000  
+DNA-directed RNA polymerase I subunit RPA12
+K03001  
+DNA-directed RNA polymerase I subunit RPA14
+K03003  
+DNA-directed RNA polymerase I subunit RPA34
+K03004  
+DNA-directed RNA polymerase I subunit RPA43
+K03005  
+DNA-directed RNA polymerase I subunit RPA49
+K03006  
+DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03010  
+DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+K03011  
+DNA-directed RNA polymerase II subunit RPB3
+K03012  
+DNA-directed RNA polymerase II subunit RPB4
+K03013  
+DNA-directed RNA polymerases I, II, and III subunit RPABC1
+K03014  
+DNA-directed RNA polymerases I, II, and III subunit RPABC2
+K03015  
+DNA-directed RNA polymerase II subunit RPB7
+K03016  
+DNA-directed RNA polymerases I, II, and III subunit RPABC3
+K03017  
+DNA-directed RNA polymerase II subunit RPB9
+K03007  
+DNA-directed RNA polymerases I, II, and III subunit RPABC5
+K03008  
+DNA-directed RNA polymerase II subunit RPB11
+K03009  
+DNA-directed RNA polymerases I, II, and III subunit RPABC4
+K03018  
+DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+K03021  
+DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6]
+K03023  
+DNA-directed RNA polymerase III subunit RPC3
+K03026  
+DNA-directed RNA polymerase III subunit RPC4
+K14721  
+DNA-directed RNA polymerase III subunit RPC5
+K03027  
+DNA-directed RNA polymerases I and III subunit RPAC1
+K03019  
+DNA-directed RNA polymerase III subunit RPC10
+K03020  
+DNA-directed RNA polymerases I and III subunit RPAC2
+K03022  
+DNA-directed RNA polymerase III subunit RPC8
+K03024  
+DNA-directed RNA polymerase III subunit RPC7
+K03025  
+DNA-directed RNA polymerase III subunit RPC6
+K02335  
+DNA polymerase I [EC:2.7.7.7]
+K02337  
+DNA polymerase III subunit alpha [EC:2.7.7.7]
+K03763  
+DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+K02338  
+DNA polymerase III subunit beta [EC:2.7.7.7]
+K02343  
+DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+K02340  
+DNA polymerase III subunit delta [EC:2.7.7.7]
+K02341  
+DNA polymerase III subunit delta' [EC:2.7.7.7]
+K02342  
+DNA polymerase III subunit epsilon [EC:2.7.7.7]
+K14159  
+ribonuclease HI / DNA polymerase III subunit epsilon [EC:2.7.7.7 3.1.26.4]
+K02345  
+DNA polymerase III subunit theta [EC:2.7.7.7]
+K02339  
+DNA polymerase III subunit chi [EC:2.7.7.7]
+K02344  
+DNA polymerase III subunit psi [EC:2.7.7.7]
+K02319  
+DNA polymerase I [EC:2.7.7.7]
+K02322  
+DNA polymerase II large subunit [EC:2.7.7.7]
+K02323  
+DNA polymerase II small subunit [EC:2.7.7.7]
+K02320  
+DNA polymerase alpha subunit A [EC:2.7.7.7]
+K02321  
+DNA polymerase alpha subunit B
+K02684  
+DNA primase small subunit [EC:2.7.7.-]
+K02685  
+DNA primase large subunit [EC:2.7.7.-]
+K02327  
+DNA polymerase delta subunit 1 [EC:2.7.7.7]
+K02328  
+DNA polymerase delta subunit 2
+K03504  
+DNA polymerase delta subunit 3
+K03505  
+DNA polymerase delta subunit 4
+K02324  
+DNA polymerase epsilon subunit 1 [EC:2.7.7.7]
+K02325  
+DNA polymerase epsilon subunit 2 [EC:2.7.7.7]
+K02326  
+DNA polymerase epsilon subunit 3 [EC:2.7.7.7]
+K03506  
+DNA polymerase epsilon subunit 4 [EC:2.7.7.7]
+K01494  
+dCTP deaminase [EC:3.5.4.13]
+K00876  
+uridine kinase [EC:2.7.1.48]
+K01081  
+5'-nucleotidase [EC:3.1.3.5]
+K11751  
+5'-nucleotidase / UDP-sugar diphosphatase [EC:3.6.1.45 3.1.3.5]
+K03787  
+5'-nucleotidase [EC:3.1.3.5]
+K08722  
+5'-nucleotidase [EC:3.1.3.5]
+K08723  
+5'-nucleotidase [EC:3.1.3.5]
+K00757  
+uridine phosphorylase [EC:2.4.2.3]
+K01240  
+uridine nucleosidase [EC:3.2.2.3]
+K00761  
+uracil phosphoribosyltransferase [EC:2.4.2.9]
+K02825  
+pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]
+K00207  
+dihydropyrimidine dehydrogenase (NADP+) [EC:1.3.1.2]
+K17722  
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT [EC:1.3.1.1]
+K17723  
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K01464  
+dihydropyrimidinase [EC:3.5.2.2]
+K01431  
+beta-ureidopropionase [EC:3.5.1.6]
+K09018  
+pyrimidine oxygenase [EC:1.14.99.46]
+K09024  
+flavin reductase [EC:1.5.1.-]
+K09020  
+ureidoacrylate peracid hydrolase [EC:3.5.1.110]
+K09021  
+aminoacrylate peracid reductase
+K09023  
+aminoacrylate hydrolase [EC:3.5.1.-]
+K16066  
+malonic semialdehyde reductase [EC:1.1.1.-]
+K09019  
+3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]
+K00756  
+pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+K10213  
+ribosylpyrimidine nucleosidase [EC:3.2.2.8]
+K01485  
+cytosine deaminase [EC:3.5.4.1]
+K04765  
+ATP diphosphatase [EC:3.6.1.8]
+K00384  
+thioredoxin reductase (NADPH) [EC:1.8.1.9]
+K00527  
+ribonucleoside-triphosphate reductase [EC:1.17.4.2]
+K00524  
+ribonucleotide reductase, class II [EC:1.17.4.1]
+K00525  
+ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+K00526  
+ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+K10807  
+ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1]
+K10808  
+ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+K16904  
+dCTP diphosphatase [EC:3.6.1.12]
+K09887  
+dCTP deaminase (dUMP-forming) [EC:3.5.4.30]
+K01520  
+dUTP pyrophosphatase [EC:3.6.1.23]
+K00560  
+thymidylate synthase [EC:2.1.1.45]
+K13998  
+dihydrofolate reductase / thymidylate synthase [EC:2.1.1.45 1.5.1.3]
+K03465  
+thymidylate synthase (FAD) [EC:2.1.1.148]
+K01489  
+cytidine deaminase [EC:3.5.4.5]
+K00758  
+thymidine phosphorylase [EC:2.4.2.4]
+K03783  
+purine-nucleoside phosphorylase [EC:2.4.2.1]
+K03784  
+purine-nucleoside phosphorylase [EC:2.4.2.1]
+K00893  
+deoxycitidine kinase [EC:2.7.1.74]
+K15519  
+deoxyadenosine/deoxycytidine kinase [EC:2.7.1.74 2.7.1.76]
+K01493  
+dCMP deaminase [EC:3.5.4.12]
+K08728  
+nucleoside deoxyribosyltransferase [EC:2.4.2.6]
+K00857  
+thymidine kinase [EC:2.7.1.21]
+K00943  
+dTMP kinase [EC:2.7.4.9]
+K01119  
+2',3'-cyclic-nucleotide 2'-phosphodiesterase [EC:3.1.4.16]
+K08693  
+3'-nucleotidase [EC:3.1.3.6]
+K01518  
+bis(5'-nucleosidyl)-tetraphosphatase [EC:3.6.1.17]
+K16328  
+pseudouridine kinase [EC:2.7.1.83]
+K16329  
+pseudouridine-5'-phosphate glycosidase [EC:3.2.-.-]
+K16330  
+pseudouridine-5'-phosphate glycosidase / pseudouridine kinase [EC:2.7.1.83 3.2.-.-]
+K01718  
+pseudouridylate synthase [EC:4.2.1.70]

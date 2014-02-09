@@ -1,0 +1,36 @@
+M00174  
+Methane oxidation, methanotroph, methane => formaldehyde [PATH:ko01220]
+M00418  
+Toluene degradation, anaerobic, toluene => benzoyl-CoA [PATH:ko01220]
+M00419  
+Cymene degradation, p-cymene => p-cumate [PATH:ko01220]
+M00533  
+Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate [PATH:ko01220]
+M00534  
+Naphthalene degradataion, naphthalene => salicylate [PATH:ko01220]
+M00537  
+Xylene degradation, xylene => methylbenzoate [PATH:ko01220]
+M00538  
+Toluene degradation, toluene => benzoate [PATH:ko01220]
+M00539  
+Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate [PATH:ko01220]
+M00540  
+Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA [PATH:ko01220]
+M00541  
+Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA [PATH:ko01220]
+M00543  
+Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate [PATH:ko01220]
+M00544  
+Carbazole degradation, carbazole => 2-oxopent-4-enoate + anthranilate [PATH:ko01220]
+M00545  
+Trans-cinnamate degradation, trans-cinnamate => 2-oxopent-4-enoate + fumarate [PATH:ko01220]
+M00547  
+Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol [PATH:ko01220]
+M00548  
+Benzene degradation, benzene => catechol [PATH:ko01220]
+M00551  
+Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol [PATH:ko01220]
+M00568  
+Catechol ortho-cleavage, catechol => 3-oxoadipate [PATH:ko01220]
+M00569  
+Catechol meta-cleavage, catechol => pyruvate + acetaldehyde [PATH:ko01220]

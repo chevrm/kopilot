@@ -1,0 +1,180 @@
+K00844  
+hexokinase [EC:2.7.1.1]
+K12407  
+glucokinase [EC:2.7.1.2]
+K00845  
+glucokinase [EC:2.7.1.2]
+K01810  
+glucose-6-phosphate isomerase [EC:5.3.1.9]
+K06859  
+glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]
+K13810  
+transaldolase / glucose-6-phosphate isomerase [EC:5.3.1.9 2.2.1.2]
+K15916  
+glucose/mannose-6-phosphate isomerase [EC:5.3.1.8 5.3.1.9]
+K00850  
+6-phosphofructokinase 1 [EC:2.7.1.11]
+K16370  
+6-phosphofructokinase 2 [EC:2.7.1.11]
+K03841  
+fructose-1,6-bisphosphatase I [EC:3.1.3.11]
+K02446  
+fructose-1,6-bisphosphatase II [EC:3.1.3.11]
+K11532  
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.37 3.1.3.11]
+K04041  
+fructose-1,6-bisphosphatase III [EC:3.1.3.11]
+K01623  
+fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+K11645  
+fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+K01624  
+fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+K01622  
+fructose 1,6-bisphosphate aldolase/phosphatase [EC:3.1.3.11 4.1.2.13]
+K16305  
+fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase [EC:2.2.1.11 4.1.2.13]
+K16306  
+fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:2.2.1.10 4.1.2.13]
+K01803  
+triosephosphate isomerase (TIM) [EC:5.3.1.1]
+K00134  
+glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K10705  
+glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [EC:1.2.1.12]
+K00150  
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]
+K00927  
+phosphoglycerate kinase [EC:2.7.2.3]
+K01834  
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+K15633  
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]
+K15634  
+probable phosphoglycerate mutase [EC:5.4.2.12]
+K15635  
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]
+K01689  
+enolase [EC:4.2.1.11]
+K00873  
+pyruvate kinase [EC:2.7.1.40]
+K12406  
+pyruvate kinase isozymes R/L [EC:2.7.1.40]
+K00163  
+pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K00161  
+pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1]
+K00162  
+pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1]
+K00627  
+pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+K00382  
+dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+K00169  
+pyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.1]
+K00170  
+pyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.1]
+K00171  
+pyruvate ferredoxin oxidoreductase, delta subunit [EC:1.2.7.1]
+K00172  
+pyruvate ferredoxin oxidoreductase, gamma subunit [EC:1.2.7.1]
+K00016  
+L-lactate dehydrogenase [EC:1.1.1.27]
+K01568  
+pyruvate decarboxylase [EC:4.1.1.1]
+K13951  
+alcohol dehydrogenase 1/7 [EC:1.1.1.1]
+K13980  
+alcohol dehydrogenase 4 [EC:1.1.1.1]
+K00121  
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.1 1.1.1.284]
+K13952  
+alcohol dehydrogenase 6 [EC:1.1.1.1]
+K04072  
+acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.1.1.1 1.2.1.10]
+K13953  
+alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]
+K13954  
+alcohol dehydrogenase [EC:1.1.1.1]
+K00001  
+alcohol dehydrogenase [EC:1.1.1.1]
+K00002  
+alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
+K14028  
+methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7]
+K14029  
+methanol dehydrogenase (cytochrome c) subunit 2 [EC:1.1.2.7]
+K00114  
+alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]
+K04022  
+alcohol dehydrogenase
+K00128  
+aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
+K14085  
+aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.3 1.2.1.8 1.2.1.31]
+K00149  
+aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.3 1.2.1.47]
+K00129  
+aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]
+K01895  
+acetyl-CoA synthetase [EC:6.2.1.1]
+K01905  
+acetyl-CoA synthetase (ADP-forming) [EC:6.2.1.13]
+K01785  
+aldose 1-epimerase [EC:5.1.3.3]
+K15917  
+UDP-glucose 4-epimerase / aldose 1-epimerase [EC:5.1.3.3 5.1.3.2]
+K01085  
+glucose-1-phosphatase [EC:3.1.3.10]
+K05344  
+glucose-1-phosphate phosphodismutase [EC:2.7.1.41]
+K01835  
+phosphoglucomutase [EC:5.4.2.2]
+K15778  
+phosphomannomutase / phosphoglucomutase [EC:5.4.2.2 5.4.2.8]
+K15779  
+phosphoglucomutase / phosphopentomutase [EC:5.4.2.7 5.4.2.2]
+K01084  
+glucose-6-phosphatase [EC:3.1.3.9]
+K00886  
+polyphosphate glucokinase [EC:2.7.1.63]
+K08074  
+ADP-dependent glucokinase [EC:2.7.1.147]
+K00918  
+ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.147 2.7.1.146]
+K01792  
+glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+K01837  
+bisphosphoglycerate mutase [EC:3.1.3.13 5.4.2.11 5.4.2.4]
+K03738  
+aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]
+K11389  
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6]
+K00131  
+glyceraldehyde-3-phosphate dehydrogenase (NADP) [EC:1.2.1.9]
+K01596  
+phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+K01610  
+phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K01222  
+6-phospho-beta-glucosidase [EC:3.2.1.86]
+K01223  
+6-phospho-beta-glucosidase [EC:3.2.1.86]
+K02777  
+PTS system, glucose-specific IIA component [EC:2.7.1.69]
+K02778  
+PTS system, glucose-specific IIB component [EC:2.7.1.69]
+K02779  
+PTS system, glucose-specific IIC component
+K02790  
+PTS system, maltose and glucose-specific IIB component [EC:2.7.1.69]
+K02791  
+PTS system, maltose and glucose-specific IIC component
+K02749  
+PTS system, arbutin-like IIB component [EC:2.7.1.69]
+K02750  
+PTS system, arbutin-like IIC component
+K02752  
+PTS system, arbutin-, cellobiose-, and salicin-specific IIB component [EC:2.7.1.69]
+K02753  
+PTS system, arbutin-, cellobiose-, and salicin-specific IIC component
