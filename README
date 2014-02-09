@@ -1,0 +1,32 @@
+kopilot v0.1 released 2014-02-09
+Copyright 2014 by Marc Chevrette under the GNU GPLv2
+Direct questions and bug reports to:
+	chevrm at gmail dot com
+
+README.md last updated 2014-02-09
+
+Summary:
+	kopilot is a suite of scripts meant to make output from the KOBAS
+	pathway annotation pipeline human readable and easily imported into
+	statistical software, such as R.  It also allows for quick subsetting
+	of reads.
+
+Installation:
+
+Dependancies (installed by install-mm if necessary)
+	- bioperl
+
+Programs and databases mentioned/used that are not directly a part of kopilot
+	- ncbi-blast
+	- KOBAS
+	- KEGG
+
+Optional:
+
+Usage:
+
+Test:
+
+Pipeline Description:
+
+Citations:
