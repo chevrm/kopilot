@@ -40,7 +40,7 @@ Optional:
 
 What is kopilot?
 	KOBAS is an annotation webserver that can be used to elucidate
-	biochemical pathways in NGS sequence data using KEGG ontology.
+	biochemical pathways in NGS sequence data using KEGG orthology (KO).
 	kopilot can be used in conjuciton with KOBAS to simplify workflow
 	and prepare data for statistical analysis (in R, for example).
 	It is a suite of scripts to allow for standardized analysis and
@@ -53,6 +53,16 @@ What isn't kopilot?
 	alone will be incorporated to make kopilot all inclusive).  As of
 	v0.1, BLAST and KOBAS still need to be processed outside of kopilot.
 	Refer to the example workflow below.
+
+External resources:
+	- KEGG pathways
+	  http://www.genome.jp/kegg-bin/get_htext?ko00001.keg
+
+	- KOBAS annotate webserver
+	  http://kobas.cbi.pku.edu.cn/program.inputForm.do?program=Annotate
+
+	- KOBAS protein fastas for making blast database(s)
+	  http://kobas.cbi.pku.edu.cn/site/download_fasta.jsp
 
 Example workflow from raw fastq:
 	> fq2fa example.fastq > example.fna
