@@ -36,7 +36,10 @@ Programs and databases mentioned that are not directly a part of kopilot
 	- R
 
 Optional:
-
+        Add kopilot dir to your path and .bashrc.
+                OR
+        Make a symbolic link in your bin (or another dir in $PATH)
+        > ln -s /full/path/to/kopilot-program ~/bin/kopilot-program
 
 What is kopilot?
 	KOBAS is an annotation webserver that can be used to elucidate
