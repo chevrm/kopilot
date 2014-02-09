@@ -5,6 +5,17 @@ Direct questions and bug reports to:
 
 README last updated 2014-02-09
 
+NOTE:   THIS SOFTWARE HAS BEEN RELEASED WITH THE HOPE THAT ALL WHO IMPLIMENT
+        IT INTO WORKFLOWS THAT LEAD TO PUBLICATIONS, CITE APPROPRIATELY.
+
+        Collaborations requesting custom implimentations of kopilot are
+        welcome; contact via email above. 
+
+        Manuscript in preparation.  Please contact via above email to use
+        kopilot in publications.   
+
+
+
 Summary:
 	kopilot is a suite of scripts meant to make output from the KOBAS
 	pathway annotation pipeline human readable and easily imported into
