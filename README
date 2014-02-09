@@ -71,3 +71,10 @@ Suite:
 Test:
 
 Citations:
+	Kanehisa, M., & Goto, S. (2000). KEGG: kyoto encyclopedia of 
+	genes and genomes. Nucleic Acids Research, 28(1), 27–30. 
+
+	Xie, C., Mao, X., Huang, J., Ding, Y., Wu, J., Dong, S., … Wei, L. 
+	(2011). KOBAS 2.0: a web server for annotation and identification 
+	of enriched pathways and diseases. Nucleic Acids Research, 
+	39(Web Server issue), W316–22. 
