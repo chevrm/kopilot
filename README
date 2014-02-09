@@ -12,6 +12,8 @@ Summary:
 	of reads.
 
 Installation:
+	- Download master.zip from github.com/chevrm/kopilot
+	- Unpack and run ./install.sh 
 
 Dependancies (installed by install-mm if necessary)
 	- bioperl
@@ -24,6 +26,23 @@ Programs and databases mentioned that are not directly a part of kopilot
 
 Optional:
 
+
+What is kopilot?
+	KOBAS is an annotation webserver that can be used to elucidate
+	biochemical pathways in NGS sequence data using KEGG ontology.
+	kopilot can be used in conjuciton with KOBAS to simplify workflow
+	and prepare data for statistical analysis (in R, for example).
+	It is a suite of scripts to allow for standardized analysis and
+	pipeline creation.  Currently, it is not a one-command pipeline.
+	Refer to the example workflow below.
+
+What isn't kopilot?
+	kopilot is not a replacement for KOBAS, or a pipeline that uses
+	KOBAS stand-alone (...yet;  Perhaps in v1.0 blast and KOBAS stand-
+	alone will be incorporated to make kopilot all inclusive).  As of
+	v0.1, BLAST and KOBAS still need to be processed outside of kopilot.
+	Refer to the example workflow below.
+
 Example workflow from raw fastq:
 	> fq2fa example.fastq > example.fna
 	> fanameshorten example.fna r
@@ -35,6 +54,7 @@ Example workflow from raw fastq:
 	# Download KOBAS results, here example.annotate
 	> kocount example.annotate > example.kc.tab
 	> kopilot r example.annotate > example.kp.tab
+	# load example.kc.tab or example.kp.tab into R
 
 Suite:
 	- fq2fa
@@ -69,6 +89,8 @@ Suite:
 		kopilot readprefix kobas.annotate > out.kp.tab
 
 Test:
+	test.annotate is included in ./test/ to allow for testing of
+	post-KOBAS scripts.
 
 Citations:
 	Kanehisa, M., & Goto, S. (2000). KEGG: kyoto encyclopedia of 
