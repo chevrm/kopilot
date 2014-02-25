@@ -24,10 +24,12 @@ use warnings;
 ## perl kopilot.pl contigprefix kobasfile > outfile.kp.tab
 
 my $dir = $0;
-$dir =~ s/\/kopilot//;
+my @str = split(/\//, $dir);
+my $last = scalar(@str) -1;
+$dir =~ s/\/$str[$last]//;
 my ($contigprefix, $kf) = (shift, shift); 
 my %verboseof = ();
-open my $mapfh, '<', "$dir/src/lists/kegg.map" or die $!;
+open my $mapfh, '<', "$dir/src/lists/kegg.map" or die "$!: DIR=$dir\n";
 while (<$mapfh>){
 	chomp;
 	my ($desc, $file) = split("\t", $_);
