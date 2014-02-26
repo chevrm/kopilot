@@ -23,10 +23,11 @@ use warnings;
 ## usage:
 ## perl kopilot.pl contigprefix kobasfile > outfile.kp.tab
 
-my $dir = $0;
-my @str = split(/\//, $dir);
-my $last = scalar(@str) -1;
-$dir =~ s/\/$str[$last]//;
+my @str = split(/\//, $0);
+my $dir = '';
+for(my $i=0;$i<scalar(@str)-1;$i++){
+	$dir .= $str[$i];
+}
 my ($contigprefix, $kf) = (shift, shift); 
 my %verboseof = ();
 open my $mapfh, '<', "$dir/src/lists/kegg.map" or die "$!: DIR=$dir\n";
