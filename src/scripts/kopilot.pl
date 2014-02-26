@@ -24,9 +24,9 @@ use warnings;
 ## perl kopilot.pl contigprefix kobasfile > outfile.kp.tab
 
 my @str = split(/\//, $0);
-my $dir = '';
+my $dir = '/';
 for(my $i=0;$i<scalar(@str)-1;$i++){
-	$dir .= $str[$i];
+	$dir .= "/" . $str[$i];
 }
 my ($contigprefix, $kf) = (shift, shift); 
 my %verboseof = ();
